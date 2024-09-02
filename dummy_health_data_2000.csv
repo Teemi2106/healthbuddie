@@ -1,0 +1,2001 @@
+Age,Weight (kg),Height (cm),Gender,BMI,Meal Plan,Exercise Routine
+39,73.7,170,Female,25.5,Low Carb,Yoga
+35,83.5,172,Other,28.2,Low Carb,Cardio
+53,98.8,197,Female,25.5,Low Carb,Yoga
+35,54.2,170,Other,18.8,Balanced,Cardio
+60,55.3,197,Female,14.2,High Protein,Yoga
+34,86.0,181,Other,26.3,Low Carb,Yoga
+26,68.3,172,Female,23.1,Balanced,Strength Training
+47,74.3,197,Female,19.1,Balanced,Yoga
+41,65.0,179,Other,20.3,Balanced,Yoga
+53,79.8,167,Female,28.6,Low Carb,Yoga
+19,71.5,177,Male,22.8,Balanced,Cardio
+24,79.9,164,Female,29.7,Low Carb,Strength Training
+24,58.5,195,Other,15.4,High Protein,Strength Training
+25,71.6,196,Female,18.6,Balanced,Strength Training
+36,89.2,161,Female,34.4,Low Calorie,Cardio
+37,60.3,183,Male,18.0,High Protein,Cardio
+60,70.9,152,Male,30.7,Low Calorie,Low Impact Exercise
+61,94.8,197,Other,24.4,Balanced,Low Impact Exercise
+24,97.1,160,Other,37.9,Low Calorie,Strength Training
+50,91.0,195,Female,23.9,Balanced,Low Impact Exercise
+25,98.2,174,Female,32.4,Low Calorie,Strength Training
+19,98.0,181,Female,29.9,Low Calorie,Strength Training
+41,91.8,193,Other,24.6,Balanced,Cardio
+22,97.1,183,Female,29.0,Low Carb,Strength Training
+33,85.5,155,Male,35.6,Low Calorie,Yoga
+60,81.5,164,Female,30.3,Low Calorie,Low Impact Exercise
+30,72.7,192,Female,19.7,Balanced,Cardio
+52,62.8,162,Female,23.9,Balanced,Yoga
+42,92.8,169,Female,32.5,Low Calorie,Yoga
+54,93.0,190,Other,25.8,Low Carb,Yoga
+65,52.9,171,Female,18.1,High Protein,Low Impact Exercise
+64,54.5,167,Female,19.5,Balanced,Low Impact Exercise
+48,91.1,174,Male,30.1,Low Calorie,Yoga
+47,52.1,177,Female,16.6,High Protein,Yoga
+44,72.0,191,Female,19.7,Balanced,Yoga
+38,59.0,180,Male,18.2,High Protein,Yoga
+31,90.8,184,Male,26.8,Low Carb,Cardio
+29,61.2,182,Female,18.5,Balanced,Cardio
+18,93.5,162,Other,35.6,Low Calorie,Strength Training
+18,52.5,186,Female,15.2,High Protein,Cardio
+49,83.4,174,Female,27.5,Low Carb,Yoga
+38,95.6,166,Male,34.7,Low Calorie,Cardio
+38,55.3,191,Female,15.2,High Protein,Yoga
+54,88.1,164,Male,32.8,Low Calorie,Low Impact Exercise
+51,89.8,154,Female,37.9,Low Calorie,Low Impact Exercise
+25,97.8,157,Male,39.7,Low Calorie,Strength Training
+34,98.2,154,Other,41.4,Low Calorie,Yoga
+24,93.2,177,Female,29.7,Low Carb,Cardio
+63,76.4,166,Male,27.7,Low Carb,Yoga
+41,97.2,196,Male,25.3,Low Carb,Cardio
+23,78.7,197,Other,20.3,Balanced,Cardio
+18,68.4,172,Male,23.1,Balanced,Cardio
+65,70.8,157,Male,28.7,Low Carb,Yoga
+63,83.9,166,Female,30.4,Low Calorie,Low Impact Exercise
+36,79.5,184,Female,23.5,Balanced,Yoga
+53,67.0,193,Female,18.0,High Protein,Yoga
+24,96.2,152,Female,41.6,Low Calorie,Cardio
+43,85.4,153,Other,36.5,Low Calorie,Cardio
+43,61.6,195,Female,16.2,High Protein,Yoga
+56,67.7,170,Other,23.4,Balanced,Low Impact Exercise
+25,87.9,161,Other,33.9,Low Calorie,Cardio
+50,79.3,179,Other,24.7,Balanced,Low Impact Exercise
+57,57.2,164,Male,21.3,Balanced,Yoga
+52,93.4,168,Other,33.1,Low Calorie,Yoga
+49,69.9,170,Male,24.2,Balanced,Cardio
+28,73.7,180,Other,22.7,Balanced,Strength Training
+51,59.6,194,Female,15.8,High Protein,Low Impact Exercise
+63,64.5,189,Other,18.1,High Protein,Low Impact Exercise
+47,72.2,170,Other,25.0,Low Carb,Yoga
+19,90.9,175,Male,29.7,Low Carb,Strength Training
+44,56.9,158,Female,22.8,Balanced,Cardio
+34,82.8,195,Female,21.8,Balanced,Cardio
+40,78.6,154,Male,33.1,Low Calorie,Cardio
+62,59.0,173,Male,19.7,Balanced,Yoga
+50,86.4,184,Male,25.5,Low Carb,Yoga
+28,82.5,158,Female,33.0,Low Calorie,Cardio
+52,69.6,154,Other,29.3,Low Carb,Yoga
+53,94.7,184,Female,28.0,Low Carb,Yoga
+50,76.8,180,Female,23.7,Balanced,Low Impact Exercise
+35,83.2,196,Female,21.7,Balanced,Cardio
+65,94.8,167,Female,34.0,Low Calorie,Yoga
+45,58.5,154,Male,24.7,Balanced,Yoga
+65,63.2,188,Male,17.9,High Protein,Low Impact Exercise
+30,72.7,192,Male,19.7,Balanced,Cardio
+56,87.5,186,Female,25.3,Low Carb,Low Impact Exercise
+20,96.8,156,Male,39.8,Low Calorie,Strength Training
+24,97.1,196,Other,25.3,Low Carb,Strength Training
+42,85.5,172,Female,28.9,Low Carb,Yoga
+48,82.7,178,Female,26.1,Low Carb,Yoga
+26,90.6,161,Other,35.0,Low Calorie,Strength Training
+41,76.5,191,Other,21.0,Balanced,Yoga
+23,79.5,159,Female,31.4,Low Calorie,Cardio
+58,56.0,173,Male,18.7,Balanced,Yoga
+54,62.7,173,Male,20.9,Balanced,Yoga
+19,51.0,196,Other,13.3,High Protein,Cardio
+21,63.4,187,Other,18.1,High Protein,Strength Training
+52,92.5,163,Female,34.8,Low Calorie,Yoga
+25,58.9,163,Male,22.2,Balanced,Cardio
+34,57.6,192,Other,15.6,High Protein,Cardio
+40,67.1,165,Female,24.6,Balanced,Yoga
+34,66.8,169,Other,23.4,Balanced,Cardio
+20,74.0,160,Male,28.9,Low Carb,Strength Training
+21,53.3,158,Male,21.4,Balanced,Strength Training
+60,74.3,163,Other,28.0,Low Carb,Yoga
+32,92.9,197,Other,23.9,Balanced,Yoga
+25,93.1,180,Other,28.7,Low Carb,Cardio
+18,98.4,170,Other,34.0,Low Calorie,Cardio
+56,86.9,169,Other,30.4,Low Calorie,Low Impact Exercise
+19,56.9,176,Other,18.4,High Protein,Cardio
+63,95.6,151,Other,41.9,Low Calorie,Yoga
+59,80.4,178,Female,25.4,Low Carb,Yoga
+43,68.8,175,Other,22.5,Balanced,Yoga
+55,61.9,173,Female,20.7,Balanced,Low Impact Exercise
+49,80.7,169,Male,28.3,Low Carb,Yoga
+28,69.0,171,Male,23.6,Balanced,Strength Training
+48,99.8,200,Male,24.9,Low Calorie,Cardio
+64,50.9,160,Female,19.9,Balanced,Yoga
+41,69.2,199,Male,17.5,High Protein,Cardio
+30,71.3,183,Female,21.3,Balanced,Cardio
+48,52.5,181,Female,16.0,High Protein,Yoga
+37,51.3,166,Male,18.6,Balanced,Yoga
+50,65.8,180,Male,20.3,Balanced,Low Impact Exercise
+32,62.2,176,Female,20.1,Balanced,Cardio
+42,82.5,170,Other,28.5,Low Carb,Yoga
+38,90.6,176,Female,29.2,Low Carb,Cardio
+47,59.7,177,Male,19.1,Balanced,Yoga
+56,72.3,168,Male,25.6,Low Carb,Low Impact Exercise
+25,69.8,157,Female,28.3,Low Carb,Strength Training
+34,51.8,191,Female,14.2,High Protein,Cardio
+20,53.9,199,Other,13.6,High Protein,Strength Training
+65,85.6,198,Female,21.8,Balanced,Yoga
+64,96.6,167,Other,34.6,Low Calorie,Low Impact Exercise
+62,69.9,188,Other,19.8,Balanced,Low Impact Exercise
+42,71.4,200,Male,17.9,High Protein,Yoga
+30,52.5,166,Other,19.1,Balanced,Cardio
+65,76.7,150,Male,34.1,Low Calorie,Yoga
+46,99.3,161,Female,38.3,Low Calorie,Cardio
+53,91.2,182,Female,27.5,Low Carb,Yoga
+22,81.9,183,Other,24.5,Balanced,Cardio
+37,80.6,166,Other,29.2,Low Carb,Yoga
+57,62.7,160,Male,24.5,Balanced,Yoga
+20,97.2,182,Other,29.3,Low Carb,Cardio
+65,97.0,152,Male,42.0,Low Calorie,Low Impact Exercise
+19,95.1,193,Other,25.5,Low Carb,Strength Training
+42,62.3,181,Male,19.0,Balanced,Cardio
+36,84.7,172,Female,28.6,Low Carb,Cardio
+42,82.6,160,Female,32.3,Low Calorie,Cardio
+55,73.0,162,Other,27.8,Low Carb,Yoga
+48,53.2,181,Male,16.2,High Protein,Yoga
+22,98.2,185,Female,28.7,Low Carb,Strength Training
+42,80.0,192,Other,21.7,Balanced,Cardio
+50,79.3,166,Female,28.8,Low Carb,Low Impact Exercise
+62,95.8,162,Female,36.5,Low Calorie,Low Impact Exercise
+40,51.7,180,Female,16.0,High Protein,Cardio
+44,64.2,163,Other,24.2,Balanced,Cardio
+54,72.8,176,Other,23.5,Balanced,Yoga
+20,75.4,183,Other,22.5,Balanced,Cardio
+48,51.9,196,Other,13.5,High Protein,Cardio
+46,81.4,171,Male,27.8,Low Carb,Yoga
+31,85.8,151,Male,37.6,Low Calorie,Cardio
+22,52.3,165,Male,19.2,Balanced,Cardio
+26,61.2,185,Female,17.9,High Protein,Cardio
+27,84.8,183,Female,25.3,Low Carb,Cardio
+45,72.0,189,Other,20.2,Balanced,Yoga
+52,64.4,180,Female,19.9,Balanced,Low Impact Exercise
+35,84.7,193,Male,22.7,Balanced,Cardio
+48,86.5,166,Other,31.4,Low Calorie,Yoga
+58,67.5,178,Other,21.3,Balanced,Low Impact Exercise
+38,72.6,197,Female,18.7,Balanced,Yoga
+19,59.4,175,Female,19.4,Balanced,Cardio
+57,91.4,176,Female,29.5,Low Carb,Low Impact Exercise
+36,95.1,199,Male,24.0,Balanced,Yoga
+59,75.6,184,Male,22.3,Balanced,Low Impact Exercise
+64,64.8,170,Male,22.4,Balanced,Low Impact Exercise
+54,67.0,162,Male,25.5,Low Carb,Low Impact Exercise
+56,68.4,182,Other,20.6,Balanced,Yoga
+34,54.4,169,Other,19.0,Balanced,Cardio
+43,75.6,154,Female,31.9,Low Calorie,Yoga
+18,67.2,171,Female,23.0,Balanced,Strength Training
+40,81.3,151,Female,35.7,Low Calorie,Cardio
+34,99.0,171,Female,33.9,Low Calorie,Yoga
+46,56.7,176,Female,18.3,High Protein,Yoga
+34,66.7,152,Male,28.9,Low Carb,Cardio
+55,94.3,163,Other,35.5,Low Calorie,Low Impact Exercise
+42,55.2,163,Other,20.8,Balanced,Cardio
+55,82.2,161,Other,31.7,Low Calorie,Low Impact Exercise
+27,70.3,162,Male,26.8,Low Carb,Cardio
+42,79.1,170,Male,27.4,Low Carb,Cardio
+19,52.8,151,Other,23.2,Balanced,Strength Training
+26,53.7,180,Female,16.6,High Protein,Cardio
+39,59.4,155,Female,24.7,Balanced,Yoga
+39,74.1,164,Other,27.6,Low Carb,Cardio
+40,68.7,179,Other,21.4,Balanced,Cardio
+47,71.3,163,Female,26.8,Low Carb,Cardio
+27,91.1,191,Other,25.0,Low Carb,Strength Training
+34,84.3,185,Male,24.6,Balanced,Yoga
+49,77.0,167,Male,27.6,Low Carb,Cardio
+30,93.4,168,Female,33.1,Low Calorie,Cardio
+38,87.7,182,Female,26.5,Low Carb,Cardio
+23,65.0,164,Other,24.2,Balanced,Cardio
+58,87.8,174,Other,29.0,Low Carb,Yoga
+18,64.0,199,Male,16.2,High Protein,Cardio
+27,85.9,165,Male,31.6,Low Calorie,Strength Training
+43,65.1,169,Male,22.8,Balanced,Yoga
+58,67.3,183,Male,20.1,Balanced,Low Impact Exercise
+63,62.0,156,Other,25.5,Low Carb,Yoga
+27,95.7,200,Other,23.9,Balanced,Strength Training
+23,79.2,189,Male,22.2,Balanced,Cardio
+21,59.2,176,Male,19.1,Balanced,Cardio
+45,60.4,159,Male,23.9,Balanced,Yoga
+54,51.5,198,Female,13.1,High Protein,Low Impact Exercise
+48,68.4,190,Other,18.9,Balanced,Yoga
+51,63.2,151,Other,27.7,Low Carb,Yoga
+39,91.6,172,Male,31.0,Low Calorie,Yoga
+20,66.1,175,Other,21.6,Balanced,Cardio
+62,72.2,172,Female,24.4,Balanced,Low Impact Exercise
+24,95.7,194,Male,25.4,Low Carb,Cardio
+47,50.7,179,Female,15.8,High Protein,Yoga
+50,53.8,181,Male,16.4,High Protein,Low Impact Exercise
+41,86.5,195,Female,22.7,Balanced,Cardio
+25,63.9,170,Female,22.1,Balanced,Cardio
+20,50.4,200,Other,12.6,High Protein,Strength Training
+25,98.8,188,Other,28.0,Low Carb,Strength Training
+53,82.3,181,Male,25.1,Low Carb,Yoga
+55,94.5,168,Female,33.5,Low Calorie,Low Impact Exercise
+64,73.6,185,Male,21.5,Balanced,Low Impact Exercise
+50,53.2,184,Female,15.7,High Protein,Yoga
+34,70.6,153,Other,30.2,Low Calorie,Yoga
+55,75.0,182,Other,22.6,Balanced,Low Impact Exercise
+41,83.4,172,Female,28.2,Low Carb,Cardio
+18,58.2,197,Male,15.0,High Protein,Cardio
+18,93.8,193,Male,25.2,Low Carb,Cardio
+33,58.4,181,Other,17.8,High Protein,Cardio
+41,89.0,196,Female,23.2,Balanced,Cardio
+42,69.4,195,Male,18.3,High Protein,Cardio
+42,83.6,187,Female,23.9,Balanced,Cardio
+65,92.5,189,Other,25.9,Low Carb,Yoga
+18,57.5,195,Male,15.1,High Protein,Cardio
+60,96.0,185,Other,28.0,Low Carb,Yoga
+50,52.7,158,Other,21.1,Balanced,Yoga
+51,90.8,159,Other,35.9,Low Calorie,Low Impact Exercise
+60,52.9,200,Female,13.2,High Protein,Low Impact Exercise
+56,50.0,159,Male,19.8,Balanced,Low Impact Exercise
+55,88.4,188,Female,25.0,Low Carb,Yoga
+20,67.0,196,Female,17.4,High Protein,Strength Training
+24,83.6,156,Other,34.4,Low Calorie,Cardio
+18,64.2,150,Male,28.5,Low Carb,Cardio
+55,65.5,155,Male,27.3,Low Carb,Yoga
+24,86.3,170,Other,29.9,Low Calorie,Strength Training
+56,85.2,198,Female,21.7,Balanced,Low Impact Exercise
+25,63.9,160,Male,25.0,Low Carb,Cardio
+63,53.7,171,Other,18.4,High Protein,Low Impact Exercise
+36,65.0,200,Male,16.2,High Protein,Cardio
+59,92.9,176,Male,30.0,Low Calorie,Yoga
+55,87.1,150,Other,38.7,Low Calorie,Yoga
+43,87.9,195,Male,23.1,Balanced,Cardio
+47,70.3,185,Female,20.5,Balanced,Yoga
+34,96.3,181,Female,29.4,Low Carb,Cardio
+46,71.1,191,Female,19.5,Balanced,Yoga
+18,82.8,184,Female,24.5,Balanced,Cardio
+46,89.4,183,Other,26.7,Low Carb,Cardio
+29,79.5,178,Male,25.1,Low Carb,Strength Training
+18,64.9,169,Male,22.7,Balanced,Cardio
+25,73.8,166,Male,26.8,Low Carb,Cardio
+59,73.4,178,Other,23.2,Balanced,Low Impact Exercise
+63,95.8,175,Other,31.3,Low Calorie,Yoga
+53,76.6,170,Male,26.5,Low Carb,Low Impact Exercise
+26,72.8,174,Female,24.0,Balanced,Cardio
+50,61.2,155,Male,25.5,Low Carb,Low Impact Exercise
+50,73.1,174,Male,24.1,Balanced,Yoga
+55,83.5,170,Male,28.9,Low Carb,Yoga
+20,55.6,189,Male,15.6,High Protein,Strength Training
+28,84.3,178,Male,26.6,Low Carb,Cardio
+50,50.4,174,Female,16.6,High Protein,Low Impact Exercise
+27,54.8,192,Other,14.9,High Protein,Strength Training
+45,75.9,184,Other,22.4,Balanced,Yoga
+49,85.3,188,Male,24.1,Balanced,Cardio
+33,71.4,169,Male,25.0,Low Carb,Yoga
+47,83.5,160,Female,32.6,Low Calorie,Yoga
+27,70.4,195,Female,18.5,Balanced,Strength Training
+31,97.0,187,Female,27.7,Low Carb,Cardio
+41,71.1,179,Male,22.2,Balanced,Yoga
+60,59.3,189,Female,16.6,High Protein,Yoga
+56,91.0,188,Other,25.7,Low Carb,Low Impact Exercise
+49,83.4,190,Other,23.1,Balanced,Yoga
+45,96.7,168,Other,34.3,Low Calorie,Cardio
+40,51.3,164,Male,19.1,Balanced,Yoga
+53,87.0,167,Male,31.2,Low Calorie,Low Impact Exercise
+44,90.4,171,Male,30.9,Low Calorie,Yoga
+35,60.0,181,Male,18.3,High Protein,Cardio
+64,93.0,160,Male,36.3,Low Calorie,Yoga
+47,75.8,182,Other,22.9,Balanced,Cardio
+57,93.9,167,Male,33.7,Low Calorie,Low Impact Exercise
+34,77.0,175,Other,25.1,Low Carb,Yoga
+42,79.6,188,Male,22.5,Balanced,Yoga
+19,66.7,195,Other,17.5,High Protein,Cardio
+21,71.4,188,Female,20.2,Balanced,Strength Training
+29,81.9,198,Female,20.9,Balanced,Cardio
+47,55.1,159,Female,21.8,Balanced,Yoga
+58,51.7,179,Female,16.1,High Protein,Low Impact Exercise
+27,77.7,151,Male,34.1,Low Calorie,Cardio
+24,59.6,188,Male,16.9,High Protein,Cardio
+48,96.2,196,Female,25.0,Low Carb,Cardio
+19,52.1,151,Male,22.8,Balanced,Strength Training
+55,68.2,166,Female,24.7,Balanced,Low Impact Exercise
+30,91.4,192,Female,24.8,Balanced,Yoga
+39,91.9,172,Other,31.1,Low Calorie,Yoga
+25,91.3,183,Other,27.3,Low Carb,Strength Training
+49,77.5,186,Female,22.4,Balanced,Yoga
+36,88.8,154,Female,37.4,Low Calorie,Cardio
+25,75.5,184,Male,22.3,Balanced,Strength Training
+20,62.0,182,Female,18.7,Balanced,Strength Training
+30,71.7,154,Female,30.2,Low Calorie,Cardio
+61,67.7,164,Female,25.2,Low Carb,Low Impact Exercise
+27,79.7,153,Female,34.0,Low Calorie,Cardio
+23,57.6,155,Female,24.0,Balanced,Strength Training
+27,82.6,186,Male,23.9,Balanced,Cardio
+59,89.1,181,Male,27.2,Low Carb,Low Impact Exercise
+47,77.4,155,Female,32.2,Low Calorie,Cardio
+42,83.9,192,Female,22.8,Balanced,Cardio
+19,75.2,152,Female,32.5,Low Calorie,Cardio
+19,79.6,173,Female,26.6,Low Carb,Strength Training
+39,77.7,150,Female,34.5,Low Calorie,Yoga
+35,54.9,184,Male,16.2,High Protein,Yoga
+57,73.5,167,Other,26.4,Low Carb,Low Impact Exercise
+56,68.0,170,Other,23.5,Balanced,Yoga
+44,90.8,199,Other,22.9,Balanced,Yoga
+61,50.4,184,Other,14.9,High Protein,Low Impact Exercise
+65,55.9,182,Female,16.9,High Protein,Yoga
+43,88.5,165,Other,32.5,Low Calorie,Yoga
+44,85.3,153,Other,36.4,Low Calorie,Cardio
+41,56.2,159,Other,22.2,Balanced,Yoga
+48,87.1,154,Male,36.7,Low Calorie,Yoga
+51,62.2,177,Male,19.9,Balanced,Low Impact Exercise
+49,72.5,168,Male,25.7,Low Carb,Cardio
+41,63.5,195,Other,16.7,High Protein,Cardio
+65,56.3,198,Female,14.4,High Protein,Low Impact Exercise
+39,50.5,157,Male,20.5,Balanced,Yoga
+38,73.7,163,Male,27.7,Low Carb,Yoga
+25,63.2,151,Male,27.7,Low Carb,Strength Training
+36,75.5,157,Male,30.6,Low Calorie,Cardio
+61,60.2,159,Female,23.8,Balanced,Yoga
+39,80.3,152,Female,34.8,Low Calorie,Yoga
+48,65.3,162,Male,24.9,Low Calorie,Yoga
+23,70.3,176,Male,22.7,Balanced,Strength Training
+18,99.5,195,Other,26.2,Low Carb,Cardio
+45,60.1,174,Other,19.9,Balanced,Yoga
+48,62.5,155,Female,26.0,Low Carb,Cardio
+63,94.8,183,Male,28.3,Low Carb,Low Impact Exercise
+19,74.1,165,Female,27.2,Low Carb,Strength Training
+22,93.7,163,Other,35.3,Low Calorie,Cardio
+42,93.8,196,Other,24.4,Balanced,Cardio
+34,90.8,162,Other,34.6,Low Calorie,Cardio
+28,67.1,150,Male,29.8,Low Carb,Cardio
+65,92.2,155,Other,38.4,Low Calorie,Yoga
+33,55.9,182,Female,16.9,High Protein,Yoga
+57,50.2,167,Female,18.0,High Protein,Yoga
+42,91.9,166,Male,33.4,Low Calorie,Yoga
+60,96.9,192,Male,26.3,Low Carb,Low Impact Exercise
+20,76.5,192,Female,20.8,Balanced,Cardio
+20,85.2,175,Female,27.8,Low Carb,Cardio
+31,57.0,150,Other,25.3,Low Carb,Cardio
+43,78.8,182,Female,23.8,Balanced,Cardio
+28,94.2,181,Other,28.8,Low Carb,Strength Training
+29,68.4,171,Female,23.4,Balanced,Cardio
+52,95.7,168,Female,33.9,Low Calorie,Low Impact Exercise
+26,90.6,173,Female,30.3,Low Calorie,Strength Training
+45,80.8,172,Female,27.3,Low Carb,Cardio
+40,77.8,200,Male,19.4,Balanced,Yoga
+59,92.7,175,Other,30.3,Low Calorie,Yoga
+19,54.0,154,Male,22.8,Balanced,Cardio
+64,93.5,198,Male,23.8,Balanced,Low Impact Exercise
+65,52.8,185,Female,15.4,High Protein,Yoga
+22,74.3,170,Male,25.7,Low Carb,Strength Training
+45,60.9,183,Female,18.2,High Protein,Yoga
+38,86.4,166,Male,31.4,Low Calorie,Cardio
+58,73.9,167,Female,26.5,Low Carb,Yoga
+40,57.5,192,Other,15.6,High Protein,Yoga
+40,87.2,158,Male,34.9,Low Calorie,Yoga
+22,50.7,198,Male,12.9,High Protein,Cardio
+21,98.9,157,Female,40.1,Low Calorie,Strength Training
+19,94.7,183,Other,28.3,Low Carb,Cardio
+34,85.0,200,Male,21.2,Balanced,Cardio
+20,95.2,185,Female,27.8,Low Carb,Strength Training
+36,91.5,175,Other,29.9,Low Calorie,Cardio
+34,81.7,154,Other,34.4,Low Calorie,Yoga
+37,71.2,197,Other,18.3,High Protein,Cardio
+52,89.2,150,Other,39.6,Low Calorie,Low Impact Exercise
+45,60.7,159,Female,24.0,Balanced,Cardio
+45,75.6,197,Other,19.5,Balanced,Cardio
+23,91.8,188,Female,26.0,Low Carb,Strength Training
+53,62.3,165,Male,22.9,Balanced,Low Impact Exercise
+45,61.8,178,Male,19.5,Balanced,Yoga
+48,59.1,196,Male,15.4,High Protein,Cardio
+54,90.8,160,Male,35.5,Low Calorie,Yoga
+37,96.2,166,Male,34.9,Low Calorie,Yoga
+43,50.8,166,Female,18.4,High Protein,Yoga
+26,72.2,162,Female,27.5,Low Carb,Cardio
+65,76.1,191,Female,20.9,Balanced,Low Impact Exercise
+37,84.3,185,Male,24.6,Balanced,Cardio
+50,67.2,153,Other,28.7,Low Carb,Low Impact Exercise
+46,62.7,173,Male,20.9,Balanced,Cardio
+29,53.7,191,Male,14.7,High Protein,Strength Training
+18,98.2,200,Female,24.6,Balanced,Strength Training
+56,91.0,158,Male,36.5,Low Calorie,Low Impact Exercise
+33,76.1,166,Other,27.6,Low Carb,Cardio
+34,68.4,197,Female,17.6,High Protein,Cardio
+31,90.6,150,Other,40.3,Low Calorie,Cardio
+60,65.1,178,Female,20.5,Balanced,Yoga
+60,86.0,166,Male,31.2,Low Calorie,Low Impact Exercise
+29,62.8,196,Female,16.3,High Protein,Strength Training
+54,81.8,177,Male,26.1,Low Carb,Low Impact Exercise
+22,74.9,165,Other,27.5,Low Carb,Strength Training
+31,97.8,184,Male,28.9,Low Carb,Cardio
+29,86.2,168,Other,30.5,Low Calorie,Cardio
+40,63.0,157,Other,25.6,Low Carb,Yoga
+41,82.8,158,Other,33.2,Low Calorie,Cardio
+25,98.9,189,Male,27.7,Low Carb,Strength Training
+54,77.2,196,Male,20.1,Balanced,Yoga
+30,78.3,200,Female,19.6,Balanced,Cardio
+41,93.6,154,Male,39.5,Low Calorie,Yoga
+41,53.1,186,Other,15.3,High Protein,Yoga
+60,96.3,157,Female,39.1,Low Calorie,Yoga
+63,99.6,183,Female,29.7,Low Carb,Low Impact Exercise
+31,51.2,189,Female,14.3,High Protein,Cardio
+29,64.9,166,Female,23.6,Balanced,Cardio
+23,88.3,191,Male,24.2,Balanced,Strength Training
+41,61.3,187,Female,17.5,High Protein,Cardio
+35,99.0,152,Male,42.8,Low Calorie,Cardio
+28,91.3,167,Other,32.7,Low Calorie,Cardio
+65,70.6,155,Other,29.4,Low Carb,Yoga
+51,82.6,200,Female,20.6,Balanced,Low Impact Exercise
+29,86.4,182,Other,26.1,Low Carb,Cardio
+65,70.0,153,Male,29.9,Low Calorie,Low Impact Exercise
+28,87.1,153,Male,37.2,Low Calorie,Strength Training
+22,67.8,182,Other,20.5,Balanced,Cardio
+53,90.2,177,Female,28.8,Low Carb,Yoga
+40,76.7,186,Female,22.2,Balanced,Cardio
+50,87.1,183,Male,26.0,Low Carb,Low Impact Exercise
+20,59.5,176,Male,19.2,Balanced,Cardio
+31,52.6,157,Other,21.3,Balanced,Yoga
+45,75.9,182,Male,22.9,Balanced,Cardio
+53,93.2,172,Other,31.5,Low Calorie,Low Impact Exercise
+48,67.5,181,Male,20.6,Balanced,Cardio
+55,51.1,168,Male,18.1,High Protein,Yoga
+23,67.7,188,Male,19.2,Balanced,Strength Training
+55,64.4,186,Other,18.6,Balanced,Yoga
+65,86.8,189,Female,24.3,Balanced,Yoga
+47,86.1,155,Other,35.8,Low Calorie,Cardio
+23,98.5,193,Other,26.4,Low Carb,Strength Training
+25,55.9,155,Female,23.3,Balanced,Strength Training
+23,69.5,152,Other,30.1,Low Calorie,Strength Training
+19,72.5,180,Male,22.4,Balanced,Strength Training
+25,58.9,155,Other,24.5,Balanced,Cardio
+53,54.8,161,Other,21.1,Balanced,Yoga
+53,86.6,176,Female,28.0,Low Carb,Yoga
+42,70.9,152,Other,30.7,Low Calorie,Cardio
+24,54.8,165,Male,20.1,Balanced,Strength Training
+22,60.2,170,Female,20.8,Balanced,Cardio
+53,73.4,166,Other,26.6,Low Carb,Yoga
+56,68.7,193,Female,18.4,High Protein,Yoga
+30,55.2,191,Male,15.1,High Protein,Yoga
+41,81.1,190,Male,22.5,Balanced,Cardio
+33,56.1,171,Male,19.2,Balanced,Cardio
+42,65.2,153,Male,27.9,Low Carb,Yoga
+53,96.2,175,Male,31.4,Low Calorie,Low Impact Exercise
+43,88.0,198,Other,22.4,Balanced,Cardio
+19,91.9,198,Other,23.4,Balanced,Strength Training
+58,79.7,173,Other,26.6,Low Carb,Low Impact Exercise
+57,99.9,178,Female,31.5,Low Calorie,Yoga
+48,50.2,150,Female,22.3,Balanced,Yoga
+21,91.3,152,Female,39.5,Low Calorie,Strength Training
+63,99.3,171,Other,34.0,Low Calorie,Low Impact Exercise
+34,52.0,191,Female,14.3,High Protein,Yoga
+65,74.1,155,Male,30.8,Low Calorie,Yoga
+36,58.7,199,Other,14.8,High Protein,Yoga
+61,98.1,196,Female,25.5,Low Carb,Yoga
+34,58.1,198,Female,14.8,High Protein,Cardio
+24,77.2,177,Male,24.6,Balanced,Strength Training
+57,93.2,155,Male,38.8,Low Calorie,Low Impact Exercise
+45,78.5,153,Male,33.5,Low Calorie,Cardio
+36,73.9,169,Female,25.9,Low Carb,Cardio
+58,91.2,157,Other,37.0,Low Calorie,Low Impact Exercise
+59,99.5,197,Other,25.6,Low Carb,Yoga
+32,69.6,172,Female,23.5,Balanced,Yoga
+35,63.0,180,Male,19.4,Balanced,Yoga
+37,97.8,162,Male,37.3,Low Calorie,Yoga
+23,94.9,170,Female,32.8,Low Calorie,Strength Training
+39,53.1,181,Other,16.2,High Protein,Cardio
+28,53.3,152,Male,23.1,Balanced,Cardio
+53,87.4,180,Male,27.0,Low Carb,Yoga
+35,57.2,174,Male,18.9,Balanced,Cardio
+28,88.5,195,Female,23.3,Balanced,Strength Training
+44,54.0,183,Female,16.1,High Protein,Yoga
+29,74.8,183,Male,22.3,Balanced,Cardio
+22,62.4,173,Other,20.8,Balanced,Cardio
+32,97.2,167,Other,34.9,Low Calorie,Yoga
+62,78.0,195,Other,20.5,Balanced,Low Impact Exercise
+23,97.9,188,Other,27.7,Low Carb,Strength Training
+24,95.4,169,Male,33.4,Low Calorie,Strength Training
+48,62.8,176,Female,20.3,Balanced,Cardio
+34,53.4,184,Other,15.8,High Protein,Yoga
+24,90.9,177,Male,29.0,Low Carb,Strength Training
+45,76.6,178,Female,24.2,Balanced,Cardio
+27,77.5,160,Other,30.3,Low Calorie,Cardio
+38,74.7,189,Female,20.9,Balanced,Cardio
+19,67.4,171,Other,23.0,Balanced,Strength Training
+22,81.3,184,Male,24.0,Balanced,Strength Training
+58,51.2,152,Male,22.2,Balanced,Yoga
+44,89.7,188,Other,25.4,Low Carb,Yoga
+49,67.5,186,Male,19.5,Balanced,Yoga
+32,70.3,158,Other,28.2,Low Carb,Yoga
+25,91.8,159,Other,36.3,Low Calorie,Cardio
+27,91.6,176,Other,29.6,Low Carb,Strength Training
+31,54.6,187,Other,15.6,High Protein,Cardio
+57,71.5,191,Male,19.6,Balanced,Yoga
+29,51.8,191,Other,14.2,High Protein,Cardio
+38,89.0,176,Male,28.7,Low Carb,Cardio
+20,64.9,195,Male,17.1,High Protein,Cardio
+40,89.6,158,Male,35.9,Low Calorie,Yoga
+33,69.3,157,Female,28.1,Low Carb,Cardio
+46,87.8,178,Male,27.7,Low Carb,Yoga
+48,57.6,164,Male,21.4,Balanced,Yoga
+25,64.4,165,Female,23.7,Balanced,Cardio
+24,75.1,150,Other,33.4,Low Calorie,Strength Training
+19,56.3,153,Male,24.1,Balanced,Strength Training
+60,67.7,177,Other,21.6,Balanced,Low Impact Exercise
+43,64.5,162,Female,24.6,Balanced,Yoga
+19,98.8,199,Male,24.9,Low Calorie,Cardio
+23,94.2,164,Male,35.0,Low Calorie,Cardio
+38,53.6,159,Female,21.2,Balanced,Yoga
+19,96.2,155,Other,40.0,Low Calorie,Strength Training
+47,93.9,188,Other,26.6,Low Carb,Cardio
+39,74.8,180,Other,23.1,Balanced,Cardio
+39,63.8,173,Female,21.3,Balanced,Cardio
+49,93.3,174,Male,30.8,Low Calorie,Yoga
+62,65.9,195,Male,17.3,High Protein,Yoga
+64,84.7,168,Female,30.0,Low Calorie,Low Impact Exercise
+25,90.6,193,Other,24.3,Balanced,Strength Training
+64,76.4,167,Other,27.4,Low Carb,Low Impact Exercise
+46,77.2,194,Other,20.5,Balanced,Cardio
+30,96.0,178,Female,30.3,Low Calorie,Yoga
+44,55.6,192,Other,15.1,High Protein,Cardio
+39,62.4,165,Male,22.9,Balanced,Yoga
+52,60.4,183,Other,18.0,High Protein,Yoga
+53,53.8,175,Male,17.6,High Protein,Low Impact Exercise
+58,53.2,193,Female,14.3,High Protein,Low Impact Exercise
+49,96.5,200,Other,24.1,Balanced,Yoga
+38,85.1,191,Female,23.3,Balanced,Cardio
+62,97.6,155,Male,40.6,Low Calorie,Low Impact Exercise
+46,90.4,177,Male,28.9,Low Carb,Yoga
+40,61.8,164,Male,23.0,Balanced,Cardio
+23,52.1,194,Female,13.8,High Protein,Strength Training
+25,82.5,177,Other,26.3,Low Carb,Strength Training
+34,72.5,174,Female,23.9,Balanced,Cardio
+36,97.9,162,Male,37.3,Low Calorie,Yoga
+39,76.7,171,Male,26.2,Low Carb,Yoga
+32,70.2,183,Male,21.0,Balanced,Yoga
+54,86.4,192,Male,23.4,Balanced,Yoga
+54,94.8,187,Female,27.1,Low Carb,Low Impact Exercise
+27,62.8,152,Female,27.2,Low Carb,Cardio
+55,86.7,192,Male,23.5,Balanced,Low Impact Exercise
+33,82.1,180,Other,25.3,Low Carb,Yoga
+38,56.5,199,Male,14.3,High Protein,Yoga
+64,61.2,157,Other,24.8,Balanced,Yoga
+49,58.6,188,Female,16.6,High Protein,Yoga
+56,73.7,173,Male,24.6,Balanced,Low Impact Exercise
+44,53.5,159,Female,21.2,Balanced,Cardio
+62,68.1,163,Other,25.6,Low Carb,Yoga
+18,86.6,182,Other,26.1,Low Carb,Strength Training
+43,82.6,192,Male,22.4,Balanced,Yoga
+38,60.1,176,Female,19.4,Balanced,Yoga
+40,79.1,185,Male,23.1,Balanced,Cardio
+21,97.4,182,Other,29.4,Low Carb,Strength Training
+45,55.8,176,Female,18.0,High Protein,Cardio
+33,76.9,189,Other,21.5,Balanced,Yoga
+51,78.6,175,Other,25.7,Low Carb,Yoga
+33,52.1,163,Other,19.6,Balanced,Yoga
+50,67.7,152,Female,29.3,Low Carb,Yoga
+40,76.7,172,Male,25.9,Low Carb,Yoga
+38,67.8,191,Other,18.6,Balanced,Cardio
+60,57.3,168,Male,20.3,Balanced,Yoga
+40,94.2,155,Other,39.2,Low Calorie,Cardio
+62,76.5,185,Other,22.4,Balanced,Yoga
+24,55.8,182,Female,16.8,High Protein,Strength Training
+30,56.9,154,Female,24.0,Balanced,Cardio
+57,51.6,167,Other,18.5,Balanced,Yoga
+29,79.1,159,Male,31.3,Low Calorie,Strength Training
+18,95.3,179,Male,29.7,Low Carb,Strength Training
+18,60.4,197,Male,15.6,High Protein,Cardio
+57,65.8,160,Male,25.7,Low Carb,Low Impact Exercise
+62,75.3,156,Female,30.9,Low Calorie,Yoga
+38,81.0,169,Male,28.4,Low Carb,Yoga
+23,79.8,179,Male,24.9,Low Calorie,Cardio
+46,98.0,151,Male,43.0,Low Calorie,Yoga
+33,56.5,199,Female,14.3,High Protein,Yoga
+38,52.5,168,Other,18.6,Balanced,Yoga
+31,97.1,194,Other,25.8,Low Carb,Cardio
+26,89.9,177,Female,28.7,Low Carb,Strength Training
+57,62.6,187,Male,17.9,High Protein,Yoga
+27,79.3,195,Other,20.9,Balanced,Cardio
+20,63.9,196,Other,16.6,High Protein,Cardio
+47,60.6,171,Other,20.7,Balanced,Cardio
+55,98.7,193,Female,26.5,Low Carb,Low Impact Exercise
+37,85.7,152,Female,37.1,Low Calorie,Cardio
+23,80.6,186,Male,23.3,Balanced,Cardio
+43,55.1,162,Male,21.0,Balanced,Cardio
+47,97.5,176,Male,31.5,Low Calorie,Cardio
+47,83.8,162,Female,31.9,Low Calorie,Cardio
+59,67.0,170,Male,23.2,Balanced,Low Impact Exercise
+20,58.6,178,Female,18.5,Balanced,Cardio
+27,87.8,172,Female,29.7,Low Carb,Strength Training
+56,71.3,156,Other,29.3,Low Carb,Low Impact Exercise
+18,66.3,174,Female,21.9,Balanced,Strength Training
+43,55.2,171,Female,18.9,Balanced,Cardio
+37,89.5,185,Other,26.2,Low Carb,Cardio
+52,71.9,156,Male,29.5,Low Carb,Yoga
+47,50.6,198,Male,12.9,High Protein,Cardio
+23,79.5,167,Other,28.5,Low Carb,Strength Training
+20,74.9,198,Male,19.1,Balanced,Cardio
+57,55.3,155,Female,23.0,Balanced,Low Impact Exercise
+24,52.8,200,Other,13.2,High Protein,Cardio
+31,56.0,178,Male,17.7,High Protein,Cardio
+64,65.1,193,Male,17.5,High Protein,Low Impact Exercise
+22,74.3,175,Female,24.3,Balanced,Cardio
+61,71.0,199,Female,17.9,High Protein,Low Impact Exercise
+61,87.8,194,Other,23.3,Balanced,Low Impact Exercise
+43,83.4,197,Female,21.5,Balanced,Yoga
+29,67.8,189,Female,19.0,Balanced,Cardio
+46,68.5,172,Female,23.2,Balanced,Yoga
+36,79.3,170,Male,27.4,Low Carb,Yoga
+18,56.6,158,Other,22.7,Balanced,Strength Training
+42,50.7,154,Male,21.4,Balanced,Yoga
+64,87.9,162,Other,33.5,Low Calorie,Yoga
+36,60.1,186,Other,17.4,High Protein,Cardio
+29,99.9,161,Other,38.5,Low Calorie,Strength Training
+29,92.8,188,Female,26.3,Low Carb,Cardio
+54,50.3,170,Female,17.4,High Protein,Yoga
+49,71.3,175,Other,23.3,Balanced,Yoga
+58,94.6,178,Female,29.9,Low Calorie,Low Impact Exercise
+42,85.4,174,Female,28.2,Low Carb,Cardio
+30,76.5,172,Other,25.9,Low Carb,Cardio
+19,50.3,157,Other,20.4,Balanced,Cardio
+62,61.6,175,Female,20.1,Balanced,Low Impact Exercise
+54,90.1,190,Male,25.0,Low Carb,Low Impact Exercise
+22,62.6,176,Other,20.2,Balanced,Strength Training
+37,72.0,199,Other,18.2,High Protein,Cardio
+51,89.9,163,Male,33.8,Low Calorie,Low Impact Exercise
+46,99.4,160,Female,38.8,Low Calorie,Yoga
+23,51.6,194,Female,13.7,High Protein,Strength Training
+36,76.7,184,Male,22.7,Balanced,Yoga
+22,90.1,177,Other,28.8,Low Carb,Strength Training
+21,82.2,171,Female,28.1,Low Carb,Strength Training
+44,95.5,163,Male,35.9,Low Calorie,Yoga
+64,68.7,179,Other,21.4,Balanced,Low Impact Exercise
+47,81.2,174,Female,26.8,Low Carb,Yoga
+62,80.8,188,Male,22.9,Balanced,Yoga
+35,56.6,178,Female,17.9,High Protein,Cardio
+37,95.3,166,Other,34.6,Low Calorie,Cardio
+48,94.7,161,Female,36.5,Low Calorie,Yoga
+56,50.4,156,Male,20.7,Balanced,Yoga
+52,72.2,181,Other,22.0,Balanced,Low Impact Exercise
+48,80.1,185,Female,23.4,Balanced,Yoga
+53,87.7,166,Other,31.8,Low Calorie,Yoga
+62,74.1,172,Other,25.0,Low Carb,Low Impact Exercise
+63,61.9,197,Other,15.9,High Protein,Yoga
+60,54.5,163,Other,20.5,Balanced,Low Impact Exercise
+30,53.0,193,Female,14.2,High Protein,Yoga
+21,90.5,190,Female,25.1,Low Carb,Strength Training
+37,70.3,162,Other,26.8,Low Carb,Cardio
+28,76.1,179,Female,23.8,Balanced,Cardio
+31,91.9,163,Male,34.6,Low Calorie,Yoga
+30,63.2,172,Male,21.4,Balanced,Cardio
+23,55.8,171,Female,19.1,Balanced,Cardio
+65,73.8,176,Other,23.8,Balanced,Low Impact Exercise
+18,80.0,167,Female,28.7,Low Carb,Strength Training
+21,78.1,164,Male,29.0,Low Carb,Strength Training
+39,92.3,157,Female,37.4,Low Calorie,Yoga
+30,70.3,157,Other,28.5,Low Carb,Yoga
+36,72.5,153,Male,31.0,Low Calorie,Cardio
+19,98.2,197,Male,25.3,Low Carb,Cardio
+53,55.1,185,Other,16.1,High Protein,Low Impact Exercise
+30,99.4,155,Male,41.4,Low Calorie,Yoga
+65,58.1,179,Other,18.1,High Protein,Low Impact Exercise
+28,70.7,194,Other,18.8,Balanced,Strength Training
+32,71.8,150,Other,31.9,Low Calorie,Cardio
+25,85.8,151,Male,37.6,Low Calorie,Cardio
+60,87.7,183,Male,26.2,Low Carb,Yoga
+42,85.4,190,Female,23.7,Balanced,Yoga
+65,99.7,196,Female,26.0,Low Carb,Yoga
+39,97.3,194,Male,25.9,Low Carb,Yoga
+29,78.5,182,Female,23.7,Balanced,Cardio
+48,64.4,172,Other,21.8,Balanced,Cardio
+30,93.5,187,Male,26.7,Low Carb,Cardio
+34,96.8,156,Female,39.8,Low Calorie,Cardio
+61,93.4,181,Male,28.5,Low Carb,Low Impact Exercise
+46,92.9,152,Female,40.2,Low Calorie,Cardio
+63,84.3,160,Other,32.9,Low Calorie,Yoga
+42,51.2,170,Female,17.7,High Protein,Cardio
+31,72.4,166,Other,26.3,Low Carb,Yoga
+20,88.9,155,Male,37.0,Low Calorie,Cardio
+18,55.3,155,Male,23.0,Balanced,Cardio
+39,94.9,184,Female,28.0,Low Carb,Yoga
+44,92.6,167,Male,33.2,Low Calorie,Yoga
+58,57.3,164,Other,21.3,Balanced,Low Impact Exercise
+59,71.1,157,Other,28.8,Low Carb,Yoga
+64,87.5,154,Other,36.9,Low Calorie,Yoga
+63,78.1,163,Other,29.4,Low Carb,Low Impact Exercise
+31,58.5,194,Other,15.5,High Protein,Cardio
+32,93.5,187,Other,26.7,Low Carb,Yoga
+38,63.1,186,Female,18.2,High Protein,Yoga
+20,62.2,193,Other,16.7,High Protein,Strength Training
+30,71.5,179,Female,22.3,Balanced,Cardio
+37,61.3,156,Female,25.2,Low Carb,Cardio
+61,65.4,166,Other,23.7,Balanced,Low Impact Exercise
+22,84.9,197,Female,21.9,Balanced,Strength Training
+64,58.3,181,Female,17.8,High Protein,Low Impact Exercise
+61,63.9,198,Male,16.3,High Protein,Yoga
+43,71.2,170,Male,24.6,Balanced,Yoga
+53,81.7,181,Male,24.9,Low Calorie,Yoga
+59,81.9,179,Female,25.6,Low Carb,Yoga
+40,52.2,189,Other,14.6,High Protein,Cardio
+27,56.1,193,Female,15.1,High Protein,Cardio
+58,98.7,197,Male,25.4,Low Carb,Yoga
+40,84.8,156,Male,34.8,Low Calorie,Cardio
+52,98.3,183,Female,29.4,Low Carb,Low Impact Exercise
+22,83.6,172,Female,28.3,Low Carb,Strength Training
+49,59.4,180,Other,18.3,High Protein,Yoga
+36,67.4,163,Male,25.4,Low Carb,Cardio
+50,86.9,172,Female,29.4,Low Carb,Yoga
+42,63.9,157,Male,25.9,Low Carb,Cardio
+32,94.6,193,Female,25.4,Low Carb,Yoga
+65,85.0,196,Other,22.1,Balanced,Yoga
+52,57.0,194,Female,15.1,High Protein,Yoga
+65,94.8,154,Other,40.0,Low Calorie,Low Impact Exercise
+20,79.6,199,Male,20.1,Balanced,Cardio
+62,95.7,179,Other,29.9,Low Calorie,Low Impact Exercise
+29,63.9,185,Female,18.7,Balanced,Cardio
+46,84.8,180,Male,26.2,Low Carb,Cardio
+24,58.9,160,Other,23.0,Balanced,Strength Training
+41,71.8,192,Other,19.5,Balanced,Cardio
+62,79.2,153,Female,33.8,Low Calorie,Low Impact Exercise
+31,98.0,175,Male,32.0,Low Calorie,Yoga
+54,80.2,189,Male,22.5,Balanced,Yoga
+64,84.4,182,Other,25.5,Low Carb,Low Impact Exercise
+60,80.5,160,Female,31.4,Low Calorie,Low Impact Exercise
+35,57.3,194,Male,15.2,High Protein,Yoga
+63,73.5,155,Other,30.6,Low Calorie,Yoga
+55,80.0,169,Male,28.0,Low Carb,Low Impact Exercise
+59,60.3,189,Other,16.9,High Protein,Low Impact Exercise
+56,93.3,196,Male,24.3,Balanced,Yoga
+61,85.3,167,Other,30.6,Low Calorie,Yoga
+58,70.8,150,Female,31.5,Low Calorie,Low Impact Exercise
+57,60.4,159,Female,23.9,Balanced,Low Impact Exercise
+32,58.4,169,Male,20.4,Balanced,Yoga
+35,70.4,174,Other,23.3,Balanced,Cardio
+61,80.9,187,Male,23.1,Balanced,Yoga
+62,86.0,163,Male,32.4,Low Calorie,Low Impact Exercise
+35,90.1,175,Female,29.4,Low Carb,Yoga
+30,72.0,191,Other,19.7,Balanced,Yoga
+19,69.1,158,Other,27.7,Low Carb,Strength Training
+24,57.4,180,Female,17.7,High Protein,Cardio
+35,74.9,199,Male,18.9,Balanced,Yoga
+37,52.4,177,Male,16.7,High Protein,Yoga
+47,64.0,171,Male,21.9,Balanced,Yoga
+24,68.0,191,Female,18.6,Balanced,Cardio
+41,63.6,176,Other,20.5,Balanced,Cardio
+63,76.4,185,Male,22.3,Balanced,Low Impact Exercise
+33,50.2,163,Female,18.9,Balanced,Cardio
+41,73.9,197,Male,19.0,Balanced,Yoga
+45,62.2,157,Female,25.2,Low Carb,Cardio
+31,81.3,173,Male,27.2,Low Carb,Yoga
+38,51.7,200,Other,12.9,High Protein,Cardio
+26,91.7,199,Other,23.2,Balanced,Strength Training
+59,82.3,193,Female,22.1,Balanced,Low Impact Exercise
+25,51.1,173,Other,17.1,High Protein,Strength Training
+26,72.3,168,Male,25.6,Low Carb,Strength Training
+53,79.7,164,Other,29.6,Low Carb,Yoga
+64,65.5,188,Other,18.5,Balanced,Yoga
+35,72.9,172,Male,24.6,Balanced,Yoga
+54,99.5,167,Male,35.7,Low Calorie,Low Impact Exercise
+38,61.0,173,Other,20.4,Balanced,Cardio
+19,71.1,178,Other,22.4,Balanced,Strength Training
+51,97.1,181,Male,29.6,Low Carb,Low Impact Exercise
+44,62.3,193,Female,16.7,High Protein,Yoga
+58,67.0,166,Male,24.3,Balanced,Low Impact Exercise
+57,80.1,154,Female,33.8,Low Calorie,Yoga
+23,82.4,158,Female,33.0,Low Calorie,Cardio
+28,75.2,184,Other,22.2,Balanced,Strength Training
+54,73.3,190,Other,20.3,Balanced,Yoga
+51,82.7,190,Male,22.9,Balanced,Yoga
+18,58.6,174,Female,19.4,Balanced,Strength Training
+36,87.8,195,Male,23.1,Balanced,Cardio
+43,85.3,188,Female,24.1,Balanced,Cardio
+40,96.3,199,Other,24.3,Balanced,Cardio
+46,85.4,172,Other,28.9,Low Carb,Cardio
+27,84.4,200,Other,21.1,Balanced,Strength Training
+28,63.7,151,Other,27.9,Low Carb,Cardio
+20,81.1,171,Other,27.7,Low Carb,Strength Training
+35,63.7,183,Female,19.0,Balanced,Cardio
+57,73.9,163,Other,27.8,Low Carb,Yoga
+32,78.1,189,Female,21.9,Balanced,Yoga
+18,83.6,190,Male,23.2,Balanced,Strength Training
+31,55.7,166,Other,20.2,Balanced,Cardio
+56,57.1,187,Male,16.3,High Protein,Yoga
+31,74.3,180,Other,22.9,Balanced,Cardio
+38,60.5,179,Male,18.9,Balanced,Yoga
+37,92.3,170,Male,31.9,Low Calorie,Yoga
+54,77.8,197,Male,20.0,Balanced,Yoga
+35,67.1,191,Other,18.4,High Protein,Yoga
+29,89.8,196,Male,23.4,Balanced,Cardio
+65,70.1,194,Other,18.6,Balanced,Yoga
+30,79.0,166,Other,28.7,Low Carb,Cardio
+26,71.8,152,Female,31.1,Low Calorie,Strength Training
+48,78.6,166,Female,28.5,Low Carb,Cardio
+45,51.9,157,Male,21.1,Balanced,Cardio
+26,60.3,179,Male,18.8,Balanced,Strength Training
+65,67.9,169,Male,23.8,Balanced,Low Impact Exercise
+31,74.5,178,Male,23.5,Balanced,Cardio
+34,99.7,181,Female,30.4,Low Calorie,Yoga
+45,63.3,196,Female,16.5,High Protein,Cardio
+51,86.9,180,Male,26.8,Low Carb,Yoga
+64,85.5,193,Female,23.0,Balanced,Low Impact Exercise
+40,84.1,159,Other,33.3,Low Calorie,Yoga
+27,76.8,176,Male,24.8,Balanced,Cardio
+23,72.7,182,Male,21.9,Balanced,Cardio
+23,95.2,196,Female,24.8,Balanced,Strength Training
+21,76.4,168,Female,27.1,Low Carb,Strength Training
+43,68.2,185,Male,19.9,Balanced,Yoga
+52,99.3,161,Other,38.3,Low Calorie,Yoga
+23,53.7,166,Female,19.5,Balanced,Cardio
+56,73.5,182,Other,22.2,Balanced,Low Impact Exercise
+33,51.6,159,Female,20.4,Balanced,Yoga
+47,62.4,160,Other,24.4,Balanced,Yoga
+41,97.2,187,Female,27.8,Low Carb,Yoga
+43,85.6,198,Other,21.8,Balanced,Yoga
+60,75.5,154,Female,31.8,Low Calorie,Low Impact Exercise
+34,97.4,162,Male,37.1,Low Calorie,Cardio
+49,61.4,155,Female,25.6,Low Carb,Yoga
+37,69.9,195,Male,18.4,High Protein,Cardio
+61,88.1,171,Female,30.1,Low Calorie,Yoga
+31,69.0,161,Other,26.6,Low Carb,Cardio
+55,77.0,150,Female,34.2,Low Calorie,Yoga
+44,78.9,164,Other,29.3,Low Carb,Yoga
+57,90.8,197,Other,23.4,Balanced,Low Impact Exercise
+39,62.7,181,Other,19.1,Balanced,Yoga
+63,60.1,184,Other,17.8,High Protein,Low Impact Exercise
+64,91.7,191,Male,25.1,Low Carb,Yoga
+26,95.9,159,Female,37.9,Low Calorie,Cardio
+41,79.7,167,Other,28.6,Low Carb,Cardio
+64,68.6,153,Male,29.3,Low Carb,Yoga
+43,93.5,192,Female,25.4,Low Carb,Cardio
+57,85.8,150,Female,38.1,Low Calorie,Yoga
+58,81.7,184,Other,24.1,Balanced,Yoga
+26,65.9,170,Female,22.8,Balanced,Strength Training
+65,58.6,181,Female,17.9,High Protein,Yoga
+38,52.8,197,Male,13.6,High Protein,Cardio
+27,94.2,170,Male,32.6,Low Calorie,Cardio
+60,74.1,196,Female,19.3,Balanced,Yoga
+33,97.9,192,Male,26.6,Low Carb,Yoga
+56,94.6,153,Other,40.4,Low Calorie,Yoga
+62,75.6,157,Other,30.7,Low Calorie,Low Impact Exercise
+43,56.3,167,Female,20.2,Balanced,Cardio
+20,65.2,167,Other,23.4,Balanced,Strength Training
+37,81.4,187,Other,23.3,Balanced,Yoga
+58,97.8,159,Female,38.7,Low Calorie,Yoga
+22,74.9,166,Female,27.2,Low Carb,Strength Training
+22,85.1,182,Female,25.7,Low Carb,Cardio
+31,90.9,165,Female,33.4,Low Calorie,Yoga
+44,62.3,156,Female,25.6,Low Carb,Cardio
+64,56.3,155,Other,23.4,Balanced,Low Impact Exercise
+43,60.8,160,Female,23.7,Balanced,Yoga
+23,63.7,151,Male,27.9,Low Carb,Strength Training
+30,57.5,165,Male,21.1,Balanced,Cardio
+18,94.3,159,Female,37.3,Low Calorie,Cardio
+34,55.6,152,Female,24.1,Balanced,Cardio
+43,94.7,164,Female,35.2,Low Calorie,Yoga
+54,79.1,154,Other,33.4,Low Calorie,Low Impact Exercise
+31,79.9,198,Male,20.4,Balanced,Yoga
+60,71.5,189,Female,20.0,Balanced,Low Impact Exercise
+37,94.5,197,Other,24.4,Balanced,Cardio
+50,95.6,197,Female,24.6,Balanced,Low Impact Exercise
+49,70.2,172,Other,23.7,Balanced,Yoga
+26,56.2,174,Female,18.6,Balanced,Strength Training
+32,60.6,180,Female,18.7,Balanced,Cardio
+45,58.1,168,Other,20.6,Balanced,Yoga
+45,66.4,193,Female,17.8,High Protein,Yoga
+26,76.7,157,Other,31.1,Low Calorie,Strength Training
+54,58.7,154,Other,24.8,Balanced,Low Impact Exercise
+62,76.4,185,Female,22.3,Balanced,Low Impact Exercise
+24,81.7,187,Female,23.4,Balanced,Strength Training
+56,62.9,194,Other,16.7,High Protein,Yoga
+45,92.1,185,Other,26.9,Low Carb,Yoga
+33,62.9,152,Other,27.2,Low Carb,Yoga
+49,58.1,180,Other,17.9,High Protein,Cardio
+56,59.1,187,Female,16.9,High Protein,Yoga
+27,67.1,175,Male,21.9,Balanced,Strength Training
+37,63.2,156,Female,26.0,Low Carb,Cardio
+63,51.8,195,Other,13.6,High Protein,Yoga
+52,58.1,168,Other,20.6,Balanced,Yoga
+52,69.0,176,Female,22.3,Balanced,Low Impact Exercise
+40,80.4,171,Other,27.5,Low Carb,Cardio
+42,70.5,152,Male,30.5,Low Calorie,Cardio
+55,61.6,171,Female,21.1,Balanced,Low Impact Exercise
+38,99.2,191,Other,27.2,Low Carb,Cardio
+46,77.1,177,Other,24.6,Balanced,Cardio
+45,71.0,189,Female,19.9,Balanced,Yoga
+46,66.8,199,Male,16.9,High Protein,Cardio
+51,59.9,173,Other,20.0,Balanced,Yoga
+43,58.1,193,Female,15.6,High Protein,Cardio
+50,62.8,189,Male,17.6,High Protein,Low Impact Exercise
+49,65.1,152,Other,28.2,Low Carb,Yoga
+55,71.4,151,Female,31.3,Low Calorie,Yoga
+28,98.1,158,Male,39.3,Low Calorie,Cardio
+18,96.3,185,Male,28.1,Low Carb,Strength Training
+34,78.5,158,Female,31.4,Low Calorie,Yoga
+33,83.8,193,Male,22.5,Balanced,Yoga
+24,58.3,191,Female,16.0,High Protein,Cardio
+52,89.3,167,Male,32.0,Low Calorie,Low Impact Exercise
+57,60.8,157,Other,24.7,Balanced,Yoga
+55,69.7,181,Male,21.3,Balanced,Yoga
+54,70.1,170,Female,24.3,Balanced,Yoga
+63,64.4,161,Other,24.8,Balanced,Yoga
+31,57.5,188,Other,16.3,High Protein,Yoga
+48,58.1,174,Male,19.2,Balanced,Yoga
+38,76.1,159,Other,30.1,Low Calorie,Yoga
+45,69.4,156,Female,28.5,Low Carb,Cardio
+56,60.1,191,Male,16.5,High Protein,Yoga
+23,99.1,172,Male,33.5,Low Calorie,Cardio
+55,98.0,178,Other,30.9,Low Calorie,Yoga
+27,53.3,152,Other,23.1,Balanced,Strength Training
+39,91.5,197,Male,23.6,Balanced,Cardio
+53,66.8,193,Other,17.9,High Protein,Yoga
+37,52.6,176,Other,17.0,High Protein,Yoga
+46,79.2,195,Other,20.8,Balanced,Yoga
+52,92.6,196,Female,24.1,Balanced,Yoga
+35,96.6,154,Other,40.7,Low Calorie,Cardio
+26,69.7,180,Other,21.5,Balanced,Cardio
+52,92.7,157,Male,37.6,Low Calorie,Low Impact Exercise
+18,50.3,174,Female,16.6,High Protein,Strength Training
+36,61.1,173,Male,20.4,Balanced,Yoga
+20,95.0,167,Other,34.1,Low Calorie,Strength Training
+19,55.7,159,Female,22.0,Balanced,Strength Training
+38,73.0,157,Female,29.6,Low Carb,Yoga
+27,51.9,157,Female,21.1,Balanced,Strength Training
+54,63.5,170,Female,22.0,Balanced,Yoga
+57,77.1,191,Other,21.1,Balanced,Yoga
+48,86.3,174,Female,28.5,Low Carb,Cardio
+31,78.5,169,Other,27.5,Low Carb,Yoga
+48,70.1,155,Male,29.2,Low Carb,Cardio
+20,76.4,199,Female,19.3,Balanced,Cardio
+38,57.3,168,Other,20.3,Balanced,Yoga
+40,89.4,194,Female,23.8,Balanced,Yoga
+43,81.3,184,Male,24.0,Balanced,Yoga
+37,90.2,190,Male,25.0,Low Carb,Cardio
+49,54.3,194,Other,14.4,High Protein,Cardio
+50,73.0,174,Other,24.1,Balanced,Low Impact Exercise
+37,82.7,152,Female,35.8,Low Calorie,Yoga
+20,56.5,169,Male,19.8,Balanced,Strength Training
+47,58.1,200,Male,14.5,High Protein,Yoga
+55,57.2,185,Female,16.7,High Protein,Low Impact Exercise
+63,71.1,180,Other,21.9,Balanced,Low Impact Exercise
+37,72.3,175,Male,23.6,Balanced,Yoga
+62,65.6,154,Female,27.7,Low Carb,Yoga
+36,95.5,172,Male,32.3,Low Calorie,Yoga
+31,50.5,169,Male,17.7,High Protein,Yoga
+45,83.4,157,Other,33.8,Low Calorie,Cardio
+38,74.8,187,Male,21.4,Balanced,Yoga
+27,51.0,198,Male,13.0,High Protein,Cardio
+29,61.4,150,Female,27.3,Low Carb,Strength Training
+41,89.4,152,Male,38.7,Low Calorie,Yoga
+51,86.0,174,Other,28.4,Low Carb,Yoga
+50,53.6,167,Other,19.2,Balanced,Yoga
+20,77.8,171,Male,26.6,Low Carb,Cardio
+63,58.1,187,Female,16.6,High Protein,Low Impact Exercise
+56,77.7,166,Female,28.2,Low Carb,Yoga
+19,85.8,181,Male,26.2,Low Carb,Strength Training
+27,64.5,158,Female,25.8,Low Carb,Strength Training
+30,69.5,193,Other,18.7,Balanced,Cardio
+22,97.0,188,Other,27.4,Low Carb,Strength Training
+25,81.2,160,Female,31.7,Low Calorie,Strength Training
+38,92.1,173,Other,30.8,Low Calorie,Cardio
+22,100.0,175,Other,32.7,Low Calorie,Strength Training
+37,52.5,154,Male,22.1,Balanced,Cardio
+18,98.2,152,Female,42.5,Low Calorie,Cardio
+65,59.4,154,Female,25.0,Low Carb,Yoga
+26,99.6,199,Male,25.2,Low Carb,Strength Training
+18,79.1,172,Other,26.7,Low Carb,Strength Training
+38,99.0,159,Male,39.2,Low Calorie,Cardio
+61,81.4,195,Other,21.4,Balanced,Low Impact Exercise
+44,65.1,174,Male,21.5,Balanced,Cardio
+43,57.8,153,Female,24.7,Balanced,Cardio
+37,75.2,200,Other,18.8,Balanced,Cardio
+34,64.7,179,Other,20.2,Balanced,Cardio
+19,85.9,167,Male,30.8,Low Calorie,Strength Training
+36,80.1,167,Male,28.7,Low Carb,Yoga
+42,76.2,167,Other,27.3,Low Carb,Cardio
+36,63.8,158,Male,25.6,Low Carb,Cardio
+55,58.8,183,Other,17.6,High Protein,Yoga
+59,61.6,197,Other,15.9,High Protein,Low Impact Exercise
+38,78.0,172,Male,26.4,Low Carb,Cardio
+60,96.4,196,Female,25.1,Low Carb,Yoga
+40,54.5,186,Other,15.8,High Protein,Yoga
+45,86.8,164,Other,32.3,Low Calorie,Cardio
+20,96.0,191,Male,26.3,Low Carb,Cardio
+18,50.1,167,Male,18.0,High Protein,Strength Training
+47,70.6,193,Male,19.0,Balanced,Yoga
+44,61.4,157,Other,24.9,Low Calorie,Yoga
+20,76.9,151,Female,33.7,Low Calorie,Strength Training
+37,60.5,150,Female,26.9,Low Carb,Yoga
+53,79.5,172,Male,26.9,Low Carb,Yoga
+57,63.4,182,Other,19.1,Balanced,Yoga
+64,69.7,178,Other,22.0,Balanced,Yoga
+48,99.2,196,Female,25.8,Low Carb,Cardio
+34,65.6,192,Other,17.8,High Protein,Yoga
+63,92.0,173,Other,30.7,Low Calorie,Low Impact Exercise
+65,54.4,151,Female,23.9,Balanced,Yoga
+29,57.4,173,Other,19.2,Balanced,Strength Training
+49,67.7,175,Female,22.1,Balanced,Yoga
+24,53.8,188,Male,15.2,High Protein,Strength Training
+63,87.2,173,Other,29.1,Low Carb,Yoga
+34,80.5,160,Male,31.4,Low Calorie,Yoga
+25,72.1,163,Male,27.1,Low Carb,Cardio
+54,62.8,165,Other,23.1,Balanced,Yoga
+55,79.4,166,Female,28.8,Low Carb,Yoga
+47,96.9,182,Male,29.3,Low Carb,Cardio
+54,63.3,165,Other,23.3,Balanced,Low Impact Exercise
+63,66.6,197,Other,17.2,High Protein,Low Impact Exercise
+29,78.7,177,Other,25.1,Low Carb,Cardio
+37,99.2,162,Male,37.8,Low Calorie,Yoga
+53,78.1,170,Female,27.0,Low Carb,Low Impact Exercise
+18,60.1,181,Male,18.3,High Protein,Cardio
+43,54.9,172,Female,18.6,Balanced,Yoga
+49,59.4,190,Male,16.5,High Protein,Cardio
+59,80.8,166,Other,29.3,Low Carb,Low Impact Exercise
+45,54.3,156,Female,22.3,Balanced,Cardio
+41,62.1,150,Male,27.6,Low Carb,Cardio
+41,80.2,175,Other,26.2,Low Carb,Yoga
+42,59.3,198,Female,15.1,High Protein,Cardio
+34,52.8,161,Female,20.4,Balanced,Cardio
+40,81.8,180,Male,25.2,Low Carb,Cardio
+29,58.1,183,Male,17.3,High Protein,Strength Training
+49,68.3,189,Male,19.1,Balanced,Yoga
+43,73.1,191,Other,20.0,Balanced,Cardio
+34,57.1,200,Female,14.3,High Protein,Cardio
+64,96.8,176,Female,31.2,Low Calorie,Yoga
+20,75.1,180,Male,23.2,Balanced,Cardio
+20,55.8,185,Other,16.3,High Protein,Strength Training
+60,74.8,186,Male,21.6,Balanced,Yoga
+55,52.5,180,Male,16.2,High Protein,Yoga
+63,69.9,190,Female,19.4,Balanced,Low Impact Exercise
+42,75.7,156,Female,31.1,Low Calorie,Yoga
+29,78.4,170,Male,27.1,Low Carb,Cardio
+45,89.8,164,Female,33.4,Low Calorie,Yoga
+34,93.3,183,Male,27.9,Low Carb,Cardio
+58,54.4,185,Other,15.9,High Protein,Yoga
+18,62.0,196,Other,16.1,High Protein,Strength Training
+59,60.4,160,Other,23.6,Balanced,Low Impact Exercise
+38,73.5,174,Female,24.3,Balanced,Yoga
+32,68.9,182,Other,20.8,Balanced,Cardio
+61,80.0,163,Other,30.1,Low Calorie,Low Impact Exercise
+31,56.4,166,Male,20.5,Balanced,Yoga
+46,73.0,196,Female,19.0,Balanced,Cardio
+53,79.5,198,Other,20.3,Balanced,Yoga
+26,55.5,192,Other,15.1,High Protein,Strength Training
+29,75.3,157,Male,30.5,Low Calorie,Cardio
+26,95.0,197,Male,24.5,Balanced,Cardio
+30,56.7,189,Male,15.9,High Protein,Yoga
+58,73.5,189,Male,20.6,Balanced,Yoga
+47,84.5,169,Other,29.6,Low Carb,Cardio
+31,64.3,161,Male,24.8,Balanced,Yoga
+25,54.4,200,Female,13.6,High Protein,Strength Training
+43,67.3,167,Male,24.1,Balanced,Yoga
+18,66.1,162,Male,25.2,Low Carb,Strength Training
+31,79.7,184,Male,23.5,Balanced,Yoga
+20,54.6,186,Other,15.8,High Protein,Strength Training
+28,52.8,164,Female,19.6,Balanced,Strength Training
+54,59.9,155,Other,24.9,Low Calorie,Yoga
+24,98.8,192,Other,26.8,Low Carb,Strength Training
+31,80.5,181,Male,24.6,Balanced,Cardio
+35,94.7,184,Male,28.0,Low Carb,Yoga
+59,95.8,188,Female,27.1,Low Carb,Low Impact Exercise
+55,97.9,180,Other,30.2,Low Calorie,Low Impact Exercise
+40,62.2,190,Other,17.2,High Protein,Cardio
+27,98.5,178,Female,31.1,Low Calorie,Strength Training
+32,93.8,193,Female,25.2,Low Carb,Yoga
+44,99.1,165,Female,36.4,Low Calorie,Yoga
+31,85.9,186,Female,24.8,Balanced,Yoga
+24,68.5,153,Male,29.3,Low Carb,Cardio
+62,85.7,191,Female,23.5,Balanced,Yoga
+43,83.6,174,Other,27.6,Low Carb,Cardio
+18,52.1,189,Other,14.6,High Protein,Cardio
+40,95.6,182,Female,28.9,Low Carb,Cardio
+20,83.3,154,Female,35.1,Low Calorie,Strength Training
+22,85.3,178,Female,26.9,Low Carb,Cardio
+41,95.8,186,Female,27.7,Low Carb,Yoga
+48,61.7,193,Male,16.6,High Protein,Cardio
+25,61.2,191,Female,16.8,High Protein,Strength Training
+20,95.4,172,Male,32.2,Low Calorie,Strength Training
+19,95.7,200,Other,23.9,Balanced,Cardio
+32,55.4,167,Male,19.9,Balanced,Cardio
+54,74.3,162,Female,28.3,Low Carb,Yoga
+45,99.0,165,Female,36.4,Low Calorie,Yoga
+63,53.6,178,Female,16.9,High Protein,Low Impact Exercise
+48,57.0,154,Other,24.0,Balanced,Cardio
+21,68.8,170,Other,23.8,Balanced,Cardio
+44,66.4,166,Male,24.1,Balanced,Yoga
+58,65.3,199,Other,16.5,High Protein,Low Impact Exercise
+60,57.6,197,Male,14.8,High Protein,Low Impact Exercise
+39,80.3,193,Male,21.6,Balanced,Cardio
+45,97.6,190,Male,27.0,Low Carb,Yoga
+32,90.1,161,Male,34.8,Low Calorie,Cardio
+50,71.7,199,Female,18.1,High Protein,Yoga
+62,88.1,192,Female,23.9,Balanced,Low Impact Exercise
+62,78.5,183,Other,23.4,Balanced,Low Impact Exercise
+37,63.4,179,Female,19.8,Balanced,Cardio
+38,58.6,176,Female,18.9,Balanced,Cardio
+45,56.5,197,Male,14.6,High Protein,Cardio
+45,97.3,176,Female,31.4,Low Calorie,Cardio
+48,68.7,185,Other,20.1,Balanced,Yoga
+40,87.8,191,Other,24.1,Balanced,Yoga
+33,58.1,159,Other,23.0,Balanced,Yoga
+36,98.5,151,Female,43.2,Low Calorie,Yoga
+30,58.8,162,Other,22.4,Balanced,Cardio
+60,52.0,174,Other,17.2,High Protein,Low Impact Exercise
+44,56.7,172,Female,19.2,Balanced,Yoga
+26,70.8,168,Male,25.1,Low Carb,Cardio
+62,94.1,182,Other,28.4,Low Carb,Low Impact Exercise
+31,68.8,199,Other,17.4,High Protein,Yoga
+57,76.1,174,Female,25.1,Low Carb,Low Impact Exercise
+32,75.7,173,Male,25.3,Low Carb,Cardio
+33,92.6,166,Other,33.6,Low Calorie,Cardio
+57,75.0,164,Other,27.9,Low Carb,Low Impact Exercise
+45,75.9,185,Other,22.2,Balanced,Yoga
+42,65.0,152,Male,28.1,Low Carb,Yoga
+39,77.9,154,Female,32.8,Low Calorie,Yoga
+44,87.5,161,Male,33.8,Low Calorie,Cardio
+63,91.4,159,Other,36.2,Low Calorie,Low Impact Exercise
+44,86.3,178,Male,27.2,Low Carb,Cardio
+28,64.0,159,Male,25.3,Low Carb,Cardio
+25,93.6,196,Male,24.4,Balanced,Cardio
+30,93.9,198,Other,24.0,Balanced,Yoga
+64,95.8,160,Male,37.4,Low Calorie,Yoga
+60,81.0,196,Female,21.1,Balanced,Yoga
+59,77.4,193,Other,20.8,Balanced,Low Impact Exercise
+42,79.9,199,Female,20.2,Balanced,Cardio
+60,84.5,185,Other,24.7,Balanced,Low Impact Exercise
+56,56.0,183,Other,16.7,High Protein,Low Impact Exercise
+34,99.5,151,Male,43.6,Low Calorie,Yoga
+59,88.9,193,Male,23.9,Balanced,Yoga
+61,71.6,181,Male,21.9,Balanced,Yoga
+27,69.1,198,Other,17.6,High Protein,Strength Training
+65,94.2,166,Female,34.2,Low Calorie,Low Impact Exercise
+19,59.6,177,Male,19.0,Balanced,Strength Training
+21,93.3,180,Male,28.8,Low Carb,Strength Training
+37,84.3,175,Male,27.5,Low Carb,Cardio
+59,86.7,196,Other,22.6,Balanced,Low Impact Exercise
+26,71.4,170,Male,24.7,Balanced,Strength Training
+53,99.0,170,Male,34.3,Low Calorie,Low Impact Exercise
+46,66.0,177,Female,21.1,Balanced,Cardio
+58,88.8,185,Male,25.9,Low Carb,Low Impact Exercise
+60,83.4,199,Female,21.1,Balanced,Low Impact Exercise
+65,89.1,160,Female,34.8,Low Calorie,Low Impact Exercise
+57,53.9,194,Male,14.3,High Protein,Low Impact Exercise
+64,78.3,169,Female,27.4,Low Carb,Low Impact Exercise
+65,80.7,168,Male,28.6,Low Carb,Yoga
+18,71.4,173,Male,23.9,Balanced,Strength Training
+55,73.5,195,Male,19.3,Balanced,Yoga
+34,82.5,165,Male,30.3,Low Calorie,Yoga
+39,62.6,157,Male,25.4,Low Carb,Yoga
+61,88.7,169,Male,31.1,Low Calorie,Low Impact Exercise
+38,91.7,196,Male,23.9,Balanced,Yoga
+54,96.1,193,Female,25.8,Low Carb,Yoga
+28,98.5,170,Male,34.1,Low Calorie,Strength Training
+45,80.3,162,Female,30.6,Low Calorie,Cardio
+45,94.7,191,Female,26.0,Low Carb,Cardio
+24,81.9,178,Other,25.8,Low Carb,Cardio
+64,60.1,190,Female,16.6,High Protein,Low Impact Exercise
+54,92.1,176,Female,29.7,Low Carb,Yoga
+59,89.4,194,Other,23.8,Balanced,Yoga
+61,70.0,170,Female,24.2,Balanced,Yoga
+18,70.7,171,Female,24.2,Balanced,Strength Training
+58,96.2,188,Other,27.2,Low Carb,Yoga
+40,65.8,168,Other,23.3,Balanced,Yoga
+18,57.8,187,Other,16.5,High Protein,Strength Training
+30,67.8,151,Male,29.7,Low Carb,Yoga
+29,81.6,184,Other,24.1,Balanced,Strength Training
+52,60.8,151,Male,26.7,Low Carb,Yoga
+35,62.1,155,Female,25.8,Low Carb,Yoga
+64,53.7,198,Other,13.7,High Protein,Yoga
+25,62.6,168,Male,22.2,Balanced,Cardio
+40,82.0,188,Other,23.2,Balanced,Yoga
+18,98.4,179,Female,30.7,Low Calorie,Cardio
+19,66.6,187,Male,19.0,Balanced,Cardio
+40,64.4,193,Female,17.3,High Protein,Cardio
+44,87.6,168,Other,31.0,Low Calorie,Yoga
+61,97.1,153,Female,41.5,Low Calorie,Yoga
+25,54.8,178,Female,17.3,High Protein,Strength Training
+18,52.5,152,Male,22.7,Balanced,Strength Training
+59,81.0,157,Other,32.9,Low Calorie,Low Impact Exercise
+62,55.5,171,Other,19.0,Balanced,Low Impact Exercise
+47,51.7,163,Female,19.5,Balanced,Cardio
+62,55.6,164,Other,20.7,Balanced,Low Impact Exercise
+58,76.8,198,Male,19.6,Balanced,Yoga
+55,60.8,166,Other,22.1,Balanced,Low Impact Exercise
+61,60.5,193,Male,16.2,High Protein,Low Impact Exercise
+20,66.7,165,Female,24.5,Balanced,Cardio
+21,51.3,160,Female,20.0,Balanced,Cardio
+25,86.6,166,Female,31.4,Low Calorie,Strength Training
+58,72.7,161,Male,28.0,Low Carb,Low Impact Exercise
+39,56.2,182,Other,17.0,High Protein,Yoga
+26,70.9,187,Female,20.3,Balanced,Strength Training
+30,80.1,171,Male,27.4,Low Carb,Cardio
+33,72.9,192,Female,19.8,Balanced,Cardio
+64,77.1,192,Male,20.9,Balanced,Low Impact Exercise
+34,89.1,186,Female,25.8,Low Carb,Cardio
+20,79.1,199,Male,20.0,Balanced,Strength Training
+63,81.2,191,Male,22.3,Balanced,Yoga
+18,68.1,195,Male,17.9,High Protein,Cardio
+29,69.6,198,Male,17.8,High Protein,Cardio
+44,78.3,156,Female,32.2,Low Calorie,Cardio
+59,91.0,196,Male,23.7,Balanced,Yoga
+57,89.3,155,Female,37.2,Low Calorie,Yoga
+60,65.9,173,Other,22.0,Balanced,Low Impact Exercise
+40,59.0,192,Other,16.0,High Protein,Cardio
+42,88.0,174,Male,29.1,Low Carb,Yoga
+35,98.8,184,Male,29.2,Low Carb,Cardio
+62,60.0,168,Other,21.3,Balanced,Low Impact Exercise
+53,75.8,155,Female,31.6,Low Calorie,Low Impact Exercise
+33,57.5,198,Female,14.7,High Protein,Yoga
+55,52.0,192,Other,14.1,High Protein,Low Impact Exercise
+49,98.3,154,Male,41.4,Low Calorie,Yoga
+55,66.6,155,Female,27.7,Low Carb,Low Impact Exercise
+49,83.9,172,Male,28.4,Low Carb,Yoga
+33,64.7,154,Female,27.3,Low Carb,Yoga
+57,76.9,161,Other,29.7,Low Carb,Low Impact Exercise
+57,92.1,170,Other,31.9,Low Calorie,Low Impact Exercise
+21,58.2,171,Female,19.9,Balanced,Strength Training
+35,83.9,195,Male,22.1,Balanced,Cardio
+55,54.6,183,Other,16.3,High Protein,Low Impact Exercise
+54,81.7,152,Male,35.4,Low Calorie,Yoga
+45,83.8,156,Female,34.4,Low Calorie,Yoga
+37,96.6,180,Female,29.8,Low Carb,Cardio
+26,60.1,155,Female,25.0,Low Carb,Strength Training
+22,70.3,177,Other,22.4,Balanced,Cardio
+32,63.8,161,Male,24.6,Balanced,Cardio
+61,62.3,192,Male,16.9,High Protein,Yoga
+65,67.0,169,Female,23.5,Balanced,Low Impact Exercise
+41,78.9,197,Other,20.3,Balanced,Yoga
+58,81.0,189,Male,22.7,Balanced,Yoga
+61,99.0,190,Male,27.4,Low Carb,Low Impact Exercise
+27,78.1,183,Other,23.3,Balanced,Strength Training
+21,99.8,154,Female,42.1,Low Calorie,Strength Training
+54,87.9,200,Female,22.0,Balanced,Low Impact Exercise
+19,69.1,171,Other,23.6,Balanced,Strength Training
+35,68.4,166,Other,24.8,Balanced,Cardio
+49,95.2,167,Male,34.1,Low Calorie,Yoga
+40,79.4,154,Male,33.5,Low Calorie,Yoga
+21,92.2,182,Female,27.8,Low Carb,Strength Training
+37,81.0,179,Female,25.3,Low Carb,Yoga
+48,52.9,166,Other,19.2,Balanced,Yoga
+51,92.2,177,Other,29.4,Low Carb,Low Impact Exercise
+59,52.3,166,Female,19.0,Balanced,Low Impact Exercise
+26,83.1,189,Other,23.3,Balanced,Strength Training
+47,78.9,179,Other,24.6,Balanced,Yoga
+63,71.6,199,Female,18.1,High Protein,Low Impact Exercise
+35,88.1,177,Other,28.1,Low Carb,Yoga
+36,99.6,172,Male,33.7,Low Calorie,Yoga
+32,67.8,187,Male,19.4,Balanced,Yoga
+18,89.2,179,Male,27.8,Low Carb,Cardio
+43,87.6,181,Male,26.7,Low Carb,Yoga
+39,80.8,170,Male,28.0,Low Carb,Yoga
+55,60.6,177,Female,19.3,Balanced,Low Impact Exercise
+34,75.3,179,Male,23.5,Balanced,Cardio
+39,53.6,151,Female,23.5,Balanced,Yoga
+43,73.2,182,Female,22.1,Balanced,Yoga
+26,86.8,200,Male,21.7,Balanced,Strength Training
+49,89.9,192,Other,24.4,Balanced,Yoga
+32,50.4,174,Male,16.6,High Protein,Cardio
+42,79.4,181,Male,24.2,Balanced,Cardio
+63,58.4,157,Male,23.7,Balanced,Low Impact Exercise
+22,76.4,187,Other,21.8,Balanced,Cardio
+57,97.5,179,Male,30.4,Low Calorie,Low Impact Exercise
+23,61.1,181,Other,18.7,Balanced,Cardio
+57,81.1,177,Female,25.9,Low Carb,Yoga
+58,75.0,150,Other,33.3,Low Calorie,Low Impact Exercise
+52,53.7,187,Male,15.4,High Protein,Low Impact Exercise
+37,58.8,183,Female,17.6,High Protein,Cardio
+28,81.2,167,Male,29.1,Low Carb,Strength Training
+38,61.4,183,Other,18.3,High Protein,Yoga
+48,61.7,177,Female,19.7,Balanced,Yoga
+27,55.8,189,Female,15.6,High Protein,Cardio
+29,66.2,200,Female,16.6,High Protein,Strength Training
+57,81.2,159,Female,32.1,Low Calorie,Low Impact Exercise
+32,60.9,176,Other,19.7,Balanced,Yoga
+46,76.7,177,Male,24.5,Balanced,Yoga
+57,73.2,188,Female,20.7,Balanced,Low Impact Exercise
+58,78.8,165,Male,28.9,Low Carb,Low Impact Exercise
+19,86.5,184,Male,25.5,Low Carb,Strength Training
+60,54.0,152,Male,23.4,Balanced,Yoga
+21,81.1,157,Other,32.9,Low Calorie,Cardio
+31,82.0,160,Other,32.0,Low Calorie,Yoga
+58,74.5,154,Female,31.4,Low Calorie,Yoga
+31,51.5,171,Female,17.6,High Protein,Cardio
+24,80.8,180,Male,24.9,Low Calorie,Strength Training
+34,61.4,156,Other,25.2,Low Carb,Cardio
+60,79.1,187,Female,22.6,Balanced,Low Impact Exercise
+25,60.3,199,Other,15.2,High Protein,Cardio
+56,81.3,195,Male,21.4,Balanced,Low Impact Exercise
+32,60.8,154,Female,25.6,Low Carb,Yoga
+27,63.6,163,Male,23.9,Balanced,Strength Training
+48,63.9,157,Male,25.9,Low Carb,Cardio
+47,93.5,180,Female,28.9,Low Carb,Yoga
+52,91.5,150,Female,40.7,Low Calorie,Yoga
+35,82.8,158,Male,33.2,Low Calorie,Yoga
+27,93.4,173,Male,31.2,Low Calorie,Strength Training
+33,73.8,155,Male,30.7,Low Calorie,Cardio
+61,63.4,191,Female,17.4,High Protein,Yoga
+32,74.2,156,Female,30.5,Low Calorie,Yoga
+57,69.8,156,Other,28.7,Low Carb,Yoga
+47,93.0,185,Other,27.2,Low Carb,Yoga
+28,60.6,174,Male,20.0,Balanced,Cardio
+52,63.0,170,Male,21.8,Balanced,Yoga
+50,58.3,166,Other,21.2,Balanced,Low Impact Exercise
+50,74.8,171,Male,25.6,Low Carb,Low Impact Exercise
+19,91.1,152,Female,39.4,Low Calorie,Cardio
+61,66.8,155,Male,27.8,Low Carb,Yoga
+46,91.2,178,Male,28.8,Low Carb,Cardio
+58,80.9,180,Female,25.0,Low Carb,Low Impact Exercise
+55,76.5,182,Other,23.1,Balanced,Yoga
+60,57.3,187,Female,16.4,High Protein,Low Impact Exercise
+32,94.2,178,Female,29.7,Low Carb,Yoga
+19,93.7,171,Other,32.0,Low Calorie,Cardio
+63,86.7,176,Female,28.0,Low Carb,Yoga
+29,88.4,192,Female,24.0,Balanced,Cardio
+35,53.8,157,Male,21.8,Balanced,Cardio
+53,63.9,190,Female,17.7,High Protein,Low Impact Exercise
+44,69.5,170,Female,24.0,Balanced,Yoga
+55,75.6,191,Male,20.7,Balanced,Yoga
+34,72.2,174,Male,23.8,Balanced,Cardio
+40,88.6,196,Male,23.1,Balanced,Yoga
+32,76.0,161,Other,29.3,Low Carb,Yoga
+56,51.0,199,Female,12.9,High Protein,Low Impact Exercise
+50,62.2,185,Male,18.2,High Protein,Yoga
+58,51.9,168,Female,18.4,High Protein,Yoga
+47,79.9,163,Male,30.1,Low Calorie,Cardio
+62,52.8,172,Female,17.8,High Protein,Yoga
+22,92.9,186,Male,26.9,Low Carb,Strength Training
+19,94.6,191,Other,25.9,Low Carb,Strength Training
+23,54.1,195,Other,14.2,High Protein,Cardio
+48,53.1,163,Male,20.0,Balanced,Cardio
+49,75.4,200,Other,18.9,Balanced,Yoga
+29,90.9,152,Female,39.3,Low Calorie,Cardio
+63,73.5,195,Female,19.3,Balanced,Low Impact Exercise
+29,75.1,176,Other,24.2,Balanced,Strength Training
+61,87.0,150,Female,38.7,Low Calorie,Low Impact Exercise
+61,87.8,188,Female,24.8,Balanced,Low Impact Exercise
+58,69.8,179,Female,21.8,Balanced,Yoga
+51,58.0,161,Other,22.4,Balanced,Yoga
+39,83.0,198,Male,21.2,Balanced,Cardio
+46,78.1,193,Other,21.0,Balanced,Cardio
+64,73.4,171,Female,25.1,Low Carb,Yoga
+35,83.3,173,Female,27.8,Low Carb,Cardio
+22,58.7,156,Female,24.1,Balanced,Cardio
+52,74.5,153,Male,31.8,Low Calorie,Low Impact Exercise
+35,96.8,181,Male,29.5,Low Carb,Yoga
+38,66.4,176,Other,21.4,Balanced,Yoga
+37,95.6,187,Female,27.3,Low Carb,Yoga
+23,90.6,187,Female,25.9,Low Carb,Strength Training
+47,63.7,158,Female,25.5,Low Carb,Yoga
+21,99.7,181,Male,30.4,Low Calorie,Strength Training
+18,62.2,172,Male,21.0,Balanced,Cardio
+57,91.2,193,Other,24.5,Balanced,Yoga
+52,71.6,160,Male,28.0,Low Carb,Low Impact Exercise
+31,53.3,193,Other,14.3,High Protein,Yoga
+53,82.1,190,Female,22.7,Balanced,Low Impact Exercise
+36,80.5,165,Other,29.6,Low Carb,Yoga
+40,54.2,160,Other,21.2,Balanced,Cardio
+38,64.6,181,Other,19.7,Balanced,Yoga
+30,84.5,176,Female,27.3,Low Carb,Cardio
+26,92.5,185,Female,27.0,Low Carb,Cardio
+38,78.0,150,Other,34.7,Low Calorie,Yoga
+55,57.7,172,Female,19.5,Balanced,Yoga
+65,78.5,157,Female,31.8,Low Calorie,Yoga
+58,95.0,189,Male,26.6,Low Carb,Yoga
+24,68.8,164,Other,25.6,Low Carb,Cardio
+47,56.5,164,Female,21.0,Balanced,Yoga
+20,67.8,199,Other,17.1,High Protein,Strength Training
+57,80.9,200,Other,20.2,Balanced,Low Impact Exercise
+51,72.5,199,Other,18.3,High Protein,Yoga
+56,85.6,181,Male,26.1,Low Carb,Low Impact Exercise
+45,72.3,190,Male,20.0,Balanced,Yoga
+40,50.2,187,Other,14.4,High Protein,Yoga
+55,55.7,166,Other,20.2,Balanced,Low Impact Exercise
+52,65.7,188,Female,18.6,Balanced,Low Impact Exercise
+60,50.4,152,Female,21.8,Balanced,Yoga
+35,85.6,180,Male,26.4,Low Carb,Cardio
+29,83.2,190,Other,23.0,Balanced,Strength Training
+19,59.4,159,Female,23.5,Balanced,Cardio
+59,94.0,181,Other,28.7,Low Carb,Low Impact Exercise
+31,64.6,172,Male,21.8,Balanced,Yoga
+41,67.0,182,Other,20.2,Balanced,Cardio
+23,86.7,155,Male,36.1,Low Calorie,Strength Training
+25,94.2,181,Male,28.8,Low Carb,Strength Training
+22,78.0,164,Female,29.0,Low Carb,Cardio
+58,69.0,155,Female,28.7,Low Carb,Yoga
+63,53.3,163,Other,20.1,Balanced,Low Impact Exercise
+43,66.7,172,Female,22.5,Balanced,Yoga
+37,98.1,150,Male,43.6,Low Calorie,Cardio
+55,79.4,182,Male,24.0,Balanced,Yoga
+63,86.0,192,Other,23.3,Balanced,Low Impact Exercise
+54,62.4,155,Other,26.0,Low Carb,Yoga
+46,90.2,181,Female,27.5,Low Carb,Yoga
+45,71.9,198,Other,18.3,High Protein,Cardio
+20,82.1,160,Female,32.1,Low Calorie,Cardio
+32,91.9,166,Other,33.4,Low Calorie,Yoga
+20,68.7,155,Female,28.6,Low Carb,Cardio
+59,71.1,178,Other,22.4,Balanced,Low Impact Exercise
+60,80.8,166,Male,29.3,Low Carb,Low Impact Exercise
+33,72.3,189,Female,20.2,Balanced,Yoga
+47,72.4,169,Male,25.3,Low Carb,Yoga
+61,70.7,161,Female,27.3,Low Carb,Low Impact Exercise
+29,61.9,165,Other,22.7,Balanced,Strength Training
+48,51.7,200,Female,12.9,High Protein,Cardio
+36,93.1,159,Female,36.8,Low Calorie,Cardio
+58,75.7,169,Other,26.5,Low Carb,Low Impact Exercise
+43,69.6,188,Male,19.7,Balanced,Cardio
+50,96.7,200,Male,24.2,Balanced,Yoga
+24,50.0,167,Other,17.9,High Protein,Strength Training
+21,84.7,165,Male,31.1,Low Calorie,Cardio
+34,71.3,159,Other,28.2,Low Carb,Cardio
+49,96.9,162,Female,36.9,Low Calorie,Cardio
+37,93.2,195,Female,24.5,Balanced,Yoga
+19,81.8,197,Female,21.1,Balanced,Cardio
+62,71.0,165,Male,26.1,Low Carb,Low Impact Exercise
+30,63.4,158,Male,25.4,Low Carb,Yoga
+41,67.1,199,Male,16.9,High Protein,Cardio
+47,65.4,193,Male,17.6,High Protein,Yoga
+30,88.5,194,Male,23.5,Balanced,Cardio
+45,95.0,175,Other,31.0,Low Calorie,Cardio
+64,90.6,198,Male,23.1,Balanced,Yoga
+48,82.7,154,Other,34.9,Low Calorie,Yoga
+25,84.5,197,Male,21.8,Balanced,Cardio
+54,77.8,197,Female,20.0,Balanced,Yoga
+58,60.5,164,Female,22.5,Balanced,Low Impact Exercise
+25,92.6,187,Male,26.5,Low Carb,Strength Training
+64,95.7,171,Male,32.7,Low Calorie,Yoga
+61,96.2,154,Female,40.6,Low Calorie,Yoga
+44,95.7,200,Male,23.9,Balanced,Cardio
+60,72.6,151,Male,31.8,Low Calorie,Yoga
+26,78.1,194,Female,20.8,Balanced,Cardio
+62,85.6,170,Other,29.6,Low Carb,Low Impact Exercise
+18,75.9,177,Female,24.2,Balanced,Cardio
+19,55.5,176,Female,17.9,High Protein,Cardio
+44,91.4,190,Other,25.3,Low Carb,Cardio
+47,86.1,162,Other,32.8,Low Calorie,Cardio
+62,69.4,185,Male,20.3,Balanced,Low Impact Exercise
+29,97.9,200,Other,24.5,Balanced,Strength Training
+62,78.1,160,Female,30.5,Low Calorie,Yoga
+38,72.8,158,Other,29.2,Low Carb,Cardio
+29,55.6,153,Other,23.8,Balanced,Strength Training
+20,78.2,173,Other,26.1,Low Carb,Strength Training
+28,78.9,176,Female,25.5,Low Carb,Strength Training
+25,71.7,196,Female,18.7,Balanced,Strength Training
+18,63.4,152,Male,27.4,Low Carb,Cardio
+32,83.2,165,Female,30.6,Low Calorie,Cardio
+55,76.5,194,Other,20.3,Balanced,Low Impact Exercise
+31,70.2,153,Other,30.0,Low Calorie,Cardio
+36,75.9,179,Female,23.7,Balanced,Cardio
+45,86.9,184,Other,25.7,Low Carb,Yoga
+55,71.4,195,Other,18.8,Balanced,Yoga
+35,81.0,168,Female,28.7,Low Carb,Yoga
+29,75.3,192,Other,20.4,Balanced,Cardio
+55,63.6,191,Other,17.4,High Protein,Yoga
+22,77.5,166,Other,28.1,Low Carb,Strength Training
+21,52.9,182,Other,16.0,High Protein,Cardio
+21,81.1,181,Other,24.8,Balanced,Strength Training
+20,90.6,176,Female,29.2,Low Carb,Strength Training
+50,81.5,152,Female,35.3,Low Calorie,Yoga
+45,73.6,158,Other,29.5,Low Carb,Cardio
+54,69.3,190,Male,19.2,Balanced,Low Impact Exercise
+23,88.0,172,Female,29.7,Low Carb,Strength Training
+60,96.1,154,Male,40.5,Low Calorie,Low Impact Exercise
+46,66.8,188,Male,18.9,Balanced,Yoga
+39,98.4,160,Male,38.4,Low Calorie,Yoga
+65,66.7,195,Other,17.5,High Protein,Yoga
+49,77.0,194,Female,20.5,Balanced,Yoga
+21,59.2,177,Other,18.9,Balanced,Cardio
+37,55.7,153,Female,23.8,Balanced,Yoga
+51,81.5,176,Female,26.3,Low Carb,Yoga
+31,58.8,195,Male,15.5,High Protein,Yoga
+26,89.7,186,Male,25.9,Low Carb,Cardio
+30,70.6,193,Female,19.0,Balanced,Yoga
+49,87.3,150,Female,38.8,Low Calorie,Yoga
+37,76.4,184,Male,22.6,Balanced,Cardio
+42,77.4,172,Female,26.2,Low Carb,Cardio
+52,72.2,176,Other,23.3,Balanced,Yoga
+42,85.0,153,Male,36.3,Low Calorie,Yoga
+32,84.7,195,Other,22.3,Balanced,Cardio
+56,58.8,175,Female,19.2,Balanced,Yoga
+59,51.7,157,Female,21.0,Balanced,Yoga
+32,56.3,177,Other,18.0,High Protein,Cardio
+53,75.7,197,Male,19.5,Balanced,Yoga
+53,78.2,194,Other,20.8,Balanced,Low Impact Exercise
+30,91.0,187,Male,26.0,Low Carb,Cardio
+49,87.5,164,Female,32.5,Low Calorie,Cardio
+42,90.6,171,Male,31.0,Low Calorie,Cardio
+24,52.1,171,Female,17.8,High Protein,Strength Training
+41,71.6,177,Female,22.9,Balanced,Cardio
+31,61.0,172,Male,20.6,Balanced,Yoga
+30,95.9,195,Female,25.2,Low Carb,Cardio
+55,53.3,200,Female,13.3,High Protein,Yoga
+32,54.3,163,Female,20.4,Balanced,Cardio
+52,92.8,173,Other,31.0,Low Calorie,Yoga
+58,90.8,163,Other,34.2,Low Calorie,Yoga
+19,99.2,173,Female,33.1,Low Calorie,Cardio
+65,69.4,191,Male,19.0,Balanced,Yoga
+43,69.6,169,Other,24.4,Balanced,Cardio
+28,68.7,183,Female,20.5,Balanced,Cardio
+19,98.8,177,Male,31.5,Low Calorie,Cardio
+25,58.1,184,Male,17.2,High Protein,Strength Training
+63,71.7,178,Female,22.6,Balanced,Yoga
+53,64.5,162,Female,24.6,Balanced,Yoga
+41,68.0,174,Female,22.5,Balanced,Cardio
+21,66.9,159,Other,26.5,Low Carb,Strength Training
+23,81.8,163,Female,30.8,Low Calorie,Strength Training
+30,78.7,195,Female,20.7,Balanced,Cardio
+64,87.9,185,Male,25.7,Low Carb,Low Impact Exercise
+45,73.9,164,Other,27.5,Low Carb,Cardio
+25,67.1,180,Other,20.7,Balanced,Cardio
+22,65.8,178,Female,20.8,Balanced,Strength Training
+18,91.7,167,Male,32.9,Low Calorie,Cardio
+41,72.6,188,Female,20.5,Balanced,Yoga
+48,83.4,163,Female,31.4,Low Calorie,Yoga
+43,58.1,167,Other,20.8,Balanced,Yoga
+61,77.2,180,Male,23.8,Balanced,Low Impact Exercise
+21,72.7,198,Other,18.5,Balanced,Cardio
+23,86.6,192,Female,23.5,Balanced,Strength Training
+57,94.0,191,Other,25.8,Low Carb,Low Impact Exercise
+51,83.4,159,Female,33.0,Low Calorie,Low Impact Exercise
+50,98.5,179,Other,30.7,Low Calorie,Yoga
+42,87.8,170,Other,30.4,Low Calorie,Yoga
+35,98.9,189,Male,27.7,Low Carb,Cardio
+62,75.2,173,Other,25.1,Low Carb,Yoga
+64,57.1,180,Male,17.6,High Protein,Low Impact Exercise
+50,73.0,188,Male,20.7,Balanced,Low Impact Exercise
+24,69.1,168,Female,24.5,Balanced,Cardio
+32,66.9,172,Female,22.6,Balanced,Yoga
+50,92.1,155,Female,38.3,Low Calorie,Low Impact Exercise
+60,88.5,196,Male,23.0,Balanced,Low Impact Exercise
+41,99.4,156,Female,40.8,Low Calorie,Cardio
+52,71.3,160,Male,27.9,Low Carb,Yoga
+57,59.8,155,Male,24.9,Low Calorie,Low Impact Exercise
+48,69.0,172,Other,23.3,Balanced,Cardio
+53,61.3,170,Male,21.2,Balanced,Yoga
+64,91.7,198,Male,23.4,Balanced,Yoga
+45,84.3,170,Female,29.2,Low Carb,Cardio
+44,86.9,187,Other,24.9,Low Calorie,Yoga
+51,68.4,161,Female,26.4,Low Carb,Yoga
+24,65.1,188,Other,18.4,High Protein,Cardio
+18,70.5,163,Female,26.5,Low Carb,Cardio
+46,61.2,188,Other,17.3,High Protein,Yoga
+45,70.3,165,Female,25.8,Low Carb,Yoga
+38,86.1,178,Male,27.2,Low Carb,Yoga
+22,66.3,195,Other,17.4,High Protein,Cardio
+64,68.2,168,Male,24.2,Balanced,Low Impact Exercise
+33,85.5,198,Female,21.8,Balanced,Yoga
+36,76.6,155,Other,31.9,Low Calorie,Cardio
+23,88.3,163,Male,33.2,Low Calorie,Cardio
+19,83.8,153,Male,35.8,Low Calorie,Cardio
+61,85.6,168,Other,30.3,Low Calorie,Yoga
+19,75.7,192,Male,20.5,Balanced,Strength Training
+40,90.5,186,Other,26.2,Low Carb,Cardio
+36,64.0,169,Other,22.4,Balanced,Cardio
+43,90.5,152,Female,39.2,Low Calorie,Cardio
+19,58.2,172,Female,19.7,Balanced,Cardio
+55,94.2,165,Male,34.6,Low Calorie,Low Impact Exercise
+30,65.1,179,Male,20.3,Balanced,Cardio
+34,98.1,175,Male,32.0,Low Calorie,Yoga
+57,83.4,183,Female,24.9,Low Calorie,Yoga
+30,90.6,164,Other,33.7,Low Calorie,Yoga
+24,97.8,199,Female,24.7,Balanced,Cardio
+42,96.1,187,Other,27.5,Low Carb,Cardio
+18,55.9,169,Female,19.6,Balanced,Strength Training
+29,59.9,181,Female,18.3,High Protein,Cardio
+64,74.9,179,Female,23.4,Balanced,Low Impact Exercise
+56,92.6,190,Male,25.7,Low Carb,Low Impact Exercise
+44,58.0,165,Other,21.3,Balanced,Cardio
+62,68.8,174,Female,22.7,Balanced,Yoga
+32,95.4,163,Female,35.9,Low Calorie,Cardio
+29,79.6,169,Other,27.9,Low Carb,Cardio
+26,72.8,188,Male,20.6,Balanced,Cardio
+47,52.4,186,Male,15.1,High Protein,Yoga
+46,52.5,171,Male,18.0,High Protein,Cardio
+58,92.1,168,Female,32.6,Low Calorie,Low Impact Exercise
+21,96.5,162,Female,36.8,Low Calorie,Strength Training
+59,97.1,158,Male,38.9,Low Calorie,Low Impact Exercise
+33,99.0,190,Male,27.4,Low Carb,Cardio
+38,84.4,182,Female,25.5,Low Carb,Yoga
+40,64.7,152,Male,28.0,Low Carb,Yoga
+57,76.6,154,Female,32.3,Low Calorie,Yoga
+42,82.2,180,Other,25.4,Low Carb,Yoga
+45,68.2,199,Female,17.2,High Protein,Cardio
+30,94.6,186,Other,27.3,Low Carb,Yoga
+50,89.9,160,Female,35.1,Low Calorie,Yoga
+23,90.0,160,Male,35.2,Low Calorie,Cardio
+62,70.5,193,Female,18.9,Balanced,Yoga
+36,85.1,169,Female,29.8,Low Carb,Cardio
+40,63.1,197,Female,16.3,High Protein,Cardio
+20,89.1,197,Other,23.0,Balanced,Strength Training
+24,82.5,179,Other,25.7,Low Carb,Cardio
+55,78.3,175,Male,25.6,Low Carb,Low Impact Exercise
+37,66.8,171,Female,22.8,Balanced,Yoga
+42,94.2,169,Other,33.0,Low Calorie,Cardio
+53,89.7,183,Female,26.8,Low Carb,Yoga
+61,85.2,167,Female,30.5,Low Calorie,Low Impact Exercise
+60,64.3,194,Other,17.1,High Protein,Low Impact Exercise
+30,69.0,195,Male,18.1,High Protein,Yoga
+52,56.0,174,Male,18.5,Balanced,Low Impact Exercise
+63,62.2,187,Other,17.8,High Protein,Low Impact Exercise
+18,59.0,183,Female,17.6,High Protein,Cardio
+47,70.7,177,Female,22.6,Balanced,Yoga
+48,51.2,154,Male,21.6,Balanced,Cardio
+48,90.5,163,Other,34.1,Low Calorie,Cardio
+35,85.7,199,Male,21.6,Balanced,Yoga
+35,81.8,161,Other,31.6,Low Calorie,Cardio
+34,87.9,196,Female,22.9,Balanced,Yoga
+42,86.9,177,Other,27.7,Low Carb,Cardio
+31,76.4,174,Other,25.2,Low Carb,Yoga
+35,83.7,160,Other,32.7,Low Calorie,Cardio
+56,64.2,152,Female,27.8,Low Carb,Low Impact Exercise
+62,90.9,198,Male,23.2,Balanced,Yoga
+31,69.9,194,Male,18.6,Balanced,Cardio
+19,80.1,176,Other,25.9,Low Carb,Strength Training
+22,62.9,162,Male,24.0,Balanced,Cardio
+36,93.5,163,Other,35.2,Low Calorie,Yoga
+57,92.3,198,Female,23.5,Balanced,Yoga
+33,67.4,194,Male,17.9,High Protein,Yoga
+63,77.7,192,Female,21.1,Balanced,Yoga
+25,79.7,199,Other,20.1,Balanced,Cardio
+57,82.0,151,Female,36.0,Low Calorie,Yoga
+49,67.6,172,Male,22.9,Balanced,Yoga
+35,99.2,171,Male,33.9,Low Calorie,Yoga
+26,90.2,191,Other,24.7,Balanced,Strength Training
+64,59.3,150,Female,26.4,Low Carb,Low Impact Exercise
+51,85.4,168,Male,30.3,Low Calorie,Yoga
+48,82.2,159,Male,32.5,Low Calorie,Yoga
+36,52.1,176,Female,16.8,High Protein,Cardio
+32,71.4,177,Other,22.8,Balanced,Yoga
+62,97.2,173,Female,32.5,Low Calorie,Low Impact Exercise
+41,84.8,200,Female,21.2,Balanced,Cardio
+40,55.6,165,Male,20.4,Balanced,Yoga
+31,62.8,168,Other,22.3,Balanced,Yoga
+56,96.8,160,Female,37.8,Low Calorie,Yoga
+25,92.3,165,Other,33.9,Low Calorie,Cardio
+49,67.5,188,Other,19.1,Balanced,Cardio
+54,55.0,196,Other,14.3,High Protein,Yoga
+54,72.7,196,Other,18.9,Balanced,Yoga
+55,69.9,185,Other,20.4,Balanced,Low Impact Exercise
+60,53.0,181,Other,16.2,High Protein,Yoga
+23,98.1,155,Male,40.8,Low Calorie,Cardio
+29,58.8,181,Male,17.9,High Protein,Strength Training
+42,90.5,165,Male,33.2,Low Calorie,Cardio
+20,90.1,191,Female,24.7,Balanced,Cardio
+61,85.4,175,Other,27.9,Low Carb,Yoga
+52,76.1,191,Female,20.9,Balanced,Yoga
+54,85.9,170,Female,29.7,Low Carb,Low Impact Exercise
+55,85.0,193,Female,22.8,Balanced,Yoga
+63,52.5,152,Female,22.7,Balanced,Yoga
+39,51.1,154,Other,21.5,Balanced,Cardio
+26,89.0,185,Male,26.0,Low Carb,Strength Training
+36,93.4,155,Female,38.9,Low Calorie,Cardio
+38,72.8,155,Male,30.3,Low Calorie,Cardio
+35,62.8,156,Male,25.8,Low Carb,Yoga
+30,86.9,189,Female,24.3,Balanced,Cardio
+23,81.3,178,Female,25.7,Low Carb,Strength Training
+28,72.5,160,Other,28.3,Low Carb,Strength Training
+24,94.2,188,Female,26.7,Low Carb,Strength Training
+39,70.5,160,Other,27.5,Low Carb,Cardio
+44,87.7,199,Male,22.1,Balanced,Yoga
+46,54.2,152,Other,23.5,Balanced,Yoga
+30,51.1,189,Male,14.3,High Protein,Cardio
+22,53.9,176,Male,17.4,High Protein,Strength Training
+51,78.7,158,Male,31.5,Low Calorie,Low Impact Exercise
+52,55.7,150,Male,24.8,Balanced,Low Impact Exercise
+46,76.5,187,Male,21.9,Balanced,Yoga
+32,90.0,154,Male,37.9,Low Calorie,Cardio
+24,69.9,181,Other,21.3,Balanced,Cardio
+36,87.8,177,Other,28.0,Low Carb,Yoga
+47,60.1,192,Other,16.3,High Protein,Yoga
+50,57.7,180,Male,17.8,High Protein,Yoga
+52,93.6,150,Other,41.6,Low Calorie,Low Impact Exercise
+59,52.3,150,Male,23.2,Balanced,Low Impact Exercise
+35,68.4,173,Female,22.9,Balanced,Cardio
+31,65.6,189,Other,18.4,High Protein,Yoga
+49,71.0,196,Other,18.5,Balanced,Yoga
+48,98.9,153,Other,42.2,Low Calorie,Cardio
+37,70.7,177,Female,22.6,Balanced,Cardio
+43,88.7,154,Other,37.4,Low Calorie,Yoga
+38,74.9,195,Male,19.7,Balanced,Cardio
+43,60.3,158,Male,24.2,Balanced,Yoga
+65,68.5,168,Male,24.3,Balanced,Yoga
+35,96.6,197,Female,24.9,Low Calorie,Yoga
+58,74.2,172,Other,25.1,Low Carb,Yoga
+65,95.9,194,Other,25.5,Low Carb,Low Impact Exercise
+21,86.6,200,Other,21.6,Balanced,Cardio
+21,86.4,182,Other,26.1,Low Carb,Strength Training
+39,89.7,157,Other,36.4,Low Calorie,Yoga
+37,83.2,196,Male,21.7,Balanced,Yoga
+55,51.3,200,Male,12.8,High Protein,Low Impact Exercise
+35,58.1,188,Other,16.4,High Protein,Yoga
+56,52.7,174,Other,17.4,High Protein,Yoga
+65,81.2,160,Female,31.7,Low Calorie,Yoga
+54,75.1,169,Other,26.3,Low Carb,Yoga
+37,77.0,185,Male,22.5,Balanced,Yoga
+39,83.7,154,Female,35.3,Low Calorie,Cardio
+45,77.6,154,Other,32.7,Low Calorie,Cardio
+63,98.8,200,Other,24.7,Balanced,Low Impact Exercise
+25,71.6,193,Female,19.2,Balanced,Cardio
+58,59.8,158,Male,24.0,Balanced,Yoga
+39,52.1,188,Female,14.7,High Protein,Cardio
+63,52.8,156,Other,21.7,Balanced,Yoga
+26,87.3,196,Other,22.7,Balanced,Cardio
+34,96.9,195,Other,25.5,Low Carb,Yoga
+37,56.7,167,Other,20.3,Balanced,Cardio
+43,72.8,186,Male,21.0,Balanced,Yoga
+55,76.1,195,Male,20.0,Balanced,Low Impact Exercise
+19,67.5,180,Female,20.8,Balanced,Cardio
+22,93.9,177,Male,30.0,Low Calorie,Cardio
+23,52.0,196,Male,13.5,High Protein,Strength Training
+58,61.4,171,Female,21.0,Balanced,Low Impact Exercise
+43,76.2,177,Other,24.3,Balanced,Cardio
+37,86.3,189,Female,24.2,Balanced,Yoga
+41,92.4,161,Male,35.6,Low Calorie,Cardio
+59,67.3,188,Male,19.0,Balanced,Yoga
+20,57.2,156,Other,23.5,Balanced,Cardio
+41,82.4,172,Male,27.9,Low Carb,Cardio
+19,84.4,156,Male,34.7,Low Calorie,Cardio
+43,68.6,157,Male,27.8,Low Carb,Cardio
+48,69.8,152,Female,30.2,Low Calorie,Yoga
+18,56.2,164,Female,20.9,Balanced,Strength Training
+28,96.2,194,Other,25.6,Low Carb,Strength Training
+57,64.3,168,Male,22.8,Balanced,Low Impact Exercise
+29,63.7,158,Male,25.5,Low Carb,Strength Training
+22,64.0,176,Female,20.7,Balanced,Cardio
+36,72.6,175,Male,23.7,Balanced,Yoga
+44,56.5,153,Male,24.1,Balanced,Yoga
+61,80.4,196,Other,20.9,Balanced,Low Impact Exercise
+49,51.4,197,Other,13.2,High Protein,Yoga
+24,91.2,160,Female,35.6,Low Calorie,Strength Training
+47,55.6,152,Male,24.1,Balanced,Yoga
+43,58.7,199,Male,14.8,High Protein,Cardio
+26,77.1,185,Female,22.5,Balanced,Strength Training
+44,99.7,153,Other,42.6,Low Calorie,Cardio
+60,97.5,168,Male,34.5,Low Calorie,Yoga
+24,70.7,185,Male,20.7,Balanced,Strength Training
+59,64.1,199,Male,16.2,High Protein,Low Impact Exercise
+55,58.9,154,Male,24.8,Balanced,Yoga
+62,65.1,190,Female,18.0,High Protein,Yoga
+56,60.1,177,Other,19.2,Balanced,Yoga
+60,60.8,178,Female,19.2,Balanced,Low Impact Exercise
+58,99.9,160,Other,39.0,Low Calorie,Yoga
+19,64.0,153,Female,27.3,Low Carb,Strength Training
+54,98.8,188,Other,28.0,Low Carb,Yoga
+62,57.2,158,Female,22.9,Balanced,Low Impact Exercise
+45,70.1,189,Male,19.6,Balanced,Yoga
+56,70.9,192,Female,19.2,Balanced,Low Impact Exercise
+55,87.0,200,Male,21.8,Balanced,Low Impact Exercise
+43,81.9,173,Male,27.4,Low Carb,Yoga
+60,68.1,168,Other,24.1,Balanced,Yoga
+47,75.2,193,Female,20.2,Balanced,Cardio
+32,73.4,150,Male,32.6,Low Calorie,Yoga
+48,86.3,166,Other,31.3,Low Calorie,Yoga
+52,97.1,171,Female,33.2,Low Calorie,Low Impact Exercise
+37,85.1,171,Male,29.1,Low Carb,Yoga
+59,80.9,155,Other,33.7,Low Calorie,Yoga
+52,80.6,169,Other,28.2,Low Carb,Yoga
+35,82.9,154,Male,35.0,Low Calorie,Yoga
+38,80.8,164,Other,30.0,Low Calorie,Cardio
+42,59.9,158,Male,24.0,Balanced,Yoga
+48,76.5,172,Other,25.9,Low Carb,Cardio
+49,56.7,200,Other,14.2,High Protein,Cardio
+55,64.3,165,Other,23.6,Balanced,Low Impact Exercise
+45,99.7,191,Female,27.3,Low Carb,Cardio
+18,54.8,157,Male,22.2,Balanced,Strength Training
+65,86.4,156,Female,35.5,Low Calorie,Low Impact Exercise
+47,75.5,185,Female,22.1,Balanced,Yoga
+61,58.7,150,Female,26.1,Low Carb,Low Impact Exercise
+27,62.8,194,Other,16.7,High Protein,Cardio
+40,66.5,167,Other,23.8,Balanced,Yoga
+28,99.1,191,Female,27.2,Low Carb,Strength Training
+25,53.8,188,Female,15.2,High Protein,Strength Training
+51,99.4,185,Male,29.0,Low Carb,Low Impact Exercise
+31,56.0,172,Female,18.9,Balanced,Cardio
+39,93.1,197,Male,24.0,Balanced,Yoga
+37,65.7,158,Other,26.3,Low Carb,Yoga
+55,68.0,184,Other,20.1,Balanced,Yoga
+28,53.3,182,Male,16.1,High Protein,Cardio
+57,75.5,173,Female,25.2,Low Carb,Low Impact Exercise
+65,51.7,200,Other,12.9,High Protein,Yoga
+43,97.9,173,Female,32.7,Low Calorie,Cardio
+44,65.3,169,Male,22.9,Balanced,Yoga
+51,62.8,197,Other,16.2,High Protein,Low Impact Exercise
+39,88.6,160,Male,34.6,Low Calorie,Cardio
+40,54.8,188,Female,15.5,High Protein,Yoga
+64,88.5,198,Female,22.6,Balanced,Low Impact Exercise
+29,88.0,176,Male,28.4,Low Carb,Strength Training
+24,65.1,168,Other,23.1,Balanced,Strength Training
+34,85.6,168,Female,30.3,Low Calorie,Cardio
+39,90.8,166,Female,33.0,Low Calorie,Yoga
+35,88.8,192,Male,24.1,Balanced,Cardio
+60,94.3,188,Female,26.7,Low Carb,Yoga
+45,52.8,157,Other,21.4,Balanced,Cardio
+53,86.3,190,Male,23.9,Balanced,Yoga
+51,50.2,150,Other,22.3,Balanced,Yoga
+35,86.3,172,Male,29.2,Low Carb,Cardio
+40,61.6,196,Male,16.0,High Protein,Yoga
+38,91.0,190,Female,25.2,Low Carb,Cardio
+38,70.6,153,Female,30.2,Low Calorie,Yoga
+51,68.8,157,Male,27.9,Low Carb,Low Impact Exercise
+19,51.1,159,Female,20.2,Balanced,Strength Training
+28,84.4,168,Male,29.9,Low Calorie,Strength Training
+44,84.6,179,Other,26.4,Low Carb,Cardio
+34,96.3,167,Female,34.5,Low Calorie,Yoga
+31,57.0,187,Female,16.3,High Protein,Yoga
+54,76.1,182,Other,23.0,Balanced,Yoga
+23,51.0,199,Other,12.9,High Protein,Cardio
+39,91.5,198,Male,23.3,Balanced,Cardio
+19,92.6,200,Other,23.1,Balanced,Cardio
+22,86.6,179,Male,27.0,Low Carb,Cardio
+64,81.4,195,Other,21.4,Balanced,Low Impact Exercise
+37,71.6,190,Male,19.8,Balanced,Yoga
+63,97.7,173,Male,32.6,Low Calorie,Yoga
+39,80.2,168,Other,28.4,Low Carb,Yoga
+46,53.6,178,Other,16.9,High Protein,Yoga
+47,94.5,170,Other,32.7,Low Calorie,Cardio
+32,84.1,189,Female,23.5,Balanced,Yoga
+26,81.4,153,Male,34.8,Low Calorie,Cardio
+53,94.4,161,Female,36.4,Low Calorie,Yoga
+36,65.2,191,Male,17.9,High Protein,Yoga
+54,77.3,164,Other,28.7,Low Carb,Yoga
+38,99.1,178,Other,31.3,Low Calorie,Yoga
+64,78.6,168,Other,27.8,Low Carb,Yoga
+42,74.5,168,Female,26.4,Low Carb,Cardio
+63,84.9,179,Male,26.5,Low Carb,Yoga
+58,91.4,163,Male,34.4,Low Calorie,Yoga
+25,55.6,160,Male,21.7,Balanced,Cardio
+26,77.7,160,Male,30.4,Low Calorie,Strength Training
+21,99.0,163,Female,37.3,Low Calorie,Cardio
+52,61.8,159,Other,24.4,Balanced,Yoga
+40,72.9,167,Male,26.1,Low Carb,Yoga
+43,74.2,179,Male,23.2,Balanced,Yoga
+55,55.5,180,Other,17.1,High Protein,Low Impact Exercise
+41,89.3,193,Female,24.0,Balanced,Yoga
+61,52.0,153,Male,22.2,Balanced,Low Impact Exercise
+21,88.7,162,Male,33.8,Low Calorie,Strength Training
+55,85.4,191,Male,23.4,Balanced,Yoga
+22,99.5,187,Male,28.5,Low Carb,Strength Training
+56,87.1,151,Other,38.2,Low Calorie,Yoga
+60,80.8,170,Male,28.0,Low Carb,Yoga
+51,52.9,182,Other,16.0,High Protein,Yoga
+32,73.9,183,Other,22.1,Balanced,Cardio
+31,89.0,163,Male,33.5,Low Calorie,Yoga
+28,81.8,172,Female,27.7,Low Carb,Cardio
+55,79.3,182,Other,23.9,Balanced,Yoga
+18,54.1,164,Other,20.1,Balanced,Cardio
+36,61.1,157,Male,24.8,Balanced,Yoga
+34,98.9,157,Other,40.1,Low Calorie,Cardio
+21,61.6,194,Female,16.4,High Protein,Cardio
+21,54.6,174,Male,18.0,High Protein,Strength Training
+47,83.4,162,Other,31.8,Low Calorie,Yoga
+57,73.7,192,Female,20.0,Balanced,Low Impact Exercise
+33,88.6,153,Female,37.8,Low Calorie,Yoga
+24,66.9,189,Female,18.7,Balanced,Strength Training
+40,94.5,196,Male,24.6,Balanced,Cardio
+46,83.2,200,Other,20.8,Balanced,Yoga
+44,54.4,154,Male,22.9,Balanced,Yoga
+49,62.9,197,Female,16.2,High Protein,Cardio
+43,69.1,193,Other,18.6,Balanced,Yoga
+24,81.5,150,Other,36.2,Low Calorie,Cardio
+20,71.8,177,Female,22.9,Balanced,Cardio
+26,82.1,188,Male,23.2,Balanced,Cardio
+55,84.0,192,Other,22.8,Balanced,Low Impact Exercise
+36,76.2,171,Female,26.1,Low Carb,Yoga
+33,76.5,156,Male,31.4,Low Calorie,Cardio
+41,52.8,189,Other,14.8,High Protein,Yoga
+23,72.8,171,Other,24.9,Low Calorie,Strength Training
+21,63.0,179,Female,19.7,Balanced,Cardio
+19,62.8,158,Other,25.2,Low Carb,Cardio
+63,53.2,169,Male,18.6,Balanced,Yoga
+42,74.2,192,Other,20.1,Balanced,Cardio
+45,79.8,188,Female,22.6,Balanced,Cardio
+38,78.4,167,Male,28.1,Low Carb,Yoga
+50,50.1,184,Other,14.8,High Protein,Low Impact Exercise
+33,90.8,162,Male,34.6,Low Calorie,Yoga
+37,70.5,194,Male,18.7,Balanced,Cardio
+51,53.4,183,Other,15.9,High Protein,Low Impact Exercise
+21,74.3,162,Other,28.3,Low Carb,Cardio
+59,50.3,166,Female,18.3,High Protein,Low Impact Exercise
+43,83.0,151,Male,36.4,Low Calorie,Yoga
+48,54.0,152,Male,23.4,Balanced,Yoga
+53,64.6,165,Male,23.7,Balanced,Yoga
+29,68.8,175,Female,22.5,Balanced,Strength Training
+25,50.1,154,Female,21.1,Balanced,Cardio
+18,66.3,174,Other,21.9,Balanced,Cardio
+40,70.6,173,Other,23.6,Balanced,Yoga
+35,53.8,155,Male,22.4,Balanced,Yoga
+60,75.2,175,Female,24.6,Balanced,Low Impact Exercise
+55,86.4,155,Other,36.0,Low Calorie,Low Impact Exercise
+41,74.2,190,Other,20.6,Balanced,Yoga
+36,95.2,155,Male,39.6,Low Calorie,Yoga
+60,62.9,180,Other,19.4,Balanced,Yoga
+22,79.3,172,Female,26.8,Low Carb,Strength Training
+40,99.5,180,Female,30.7,Low Calorie,Yoga
+57,67.6,197,Other,17.4,High Protein,Low Impact Exercise
+39,53.4,150,Female,23.7,Balanced,Cardio
+61,74.0,166,Male,26.9,Low Carb,Yoga
+48,56.3,181,Female,17.2,High Protein,Cardio
+53,51.7,175,Female,16.9,High Protein,Yoga
+33,53.0,200,Other,13.2,High Protein,Yoga
+22,90.3,174,Female,29.8,Low Carb,Strength Training
+59,95.0,152,Male,41.1,Low Calorie,Low Impact Exercise
+56,73.5,163,Male,27.7,Low Carb,Yoga
+58,99.4,167,Male,35.6,Low Calorie,Yoga
+33,90.9,181,Female,27.7,Low Carb,Yoga
+38,86.5,178,Male,27.3,Low Carb,Cardio
+34,86.7,193,Female,23.3,Balanced,Yoga
+53,56.7,167,Other,20.3,Balanced,Low Impact Exercise
+23,81.6,157,Female,33.1,Low Calorie,Strength Training
+40,80.8,193,Other,21.7,Balanced,Yoga
+22,93.1,165,Other,34.2,Low Calorie,Cardio
+23,78.4,150,Male,34.8,Low Calorie,Strength Training
+56,78.7,162,Other,30.0,Low Calorie,Yoga
+19,54.2,194,Male,14.4,High Protein,Strength Training
+26,50.7,182,Other,15.3,High Protein,Cardio
+57,97.0,189,Female,27.2,Low Carb,Yoga
+61,92.1,194,Male,24.5,Balanced,Low Impact Exercise
+45,81.3,199,Male,20.5,Balanced,Cardio
+57,79.6,172,Other,26.9,Low Carb,Yoga
+42,51.3,167,Other,18.4,High Protein,Yoga
+38,95.3,160,Male,37.2,Low Calorie,Yoga
+30,74.2,176,Other,24.0,Balanced,Cardio
+30,73.9,150,Other,32.8,Low Calorie,Yoga
+53,95.6,170,Other,33.1,Low Calorie,Yoga
+41,58.3,178,Other,18.4,High Protein,Yoga
+55,59.1,186,Female,17.1,High Protein,Yoga
+65,59.6,188,Other,16.9,High Protein,Low Impact Exercise
+51,81.2,192,Female,22.0,Balanced,Low Impact Exercise
+19,61.9,184,Other,18.3,High Protein,Strength Training
+32,70.6,169,Male,24.7,Balanced,Cardio
+53,70.4,150,Male,31.3,Low Calorie,Low Impact Exercise
+18,63.3,194,Other,16.8,High Protein,Cardio
+31,74.1,192,Male,20.1,Balanced,Yoga
+20,63.5,173,Female,21.2,Balanced,Strength Training
+43,55.3,172,Male,18.7,Balanced,Cardio
+38,99.7,162,Other,38.0,Low Calorie,Cardio
+26,100.0,172,Other,33.8,Low Calorie,Strength Training
+46,66.8,196,Other,17.4,High Protein,Cardio
+19,70.8,188,Female,20.0,Balanced,Cardio
+27,51.4,189,Other,14.4,High Protein,Strength Training
+24,68.0,193,Female,18.3,High Protein,Strength Training
+59,66.9,180,Female,20.6,Balanced,Yoga
+64,77.3,170,Male,26.7,Low Carb,Yoga
+50,93.8,157,Male,38.1,Low Calorie,Low Impact Exercise
+60,52.2,195,Male,13.7,High Protein,Yoga
+50,79.0,175,Male,25.8,Low Carb,Low Impact Exercise
+38,87.9,178,Female,27.7,Low Carb,Yoga
+46,66.0,156,Male,27.1,Low Carb,Yoga
+36,89.7,156,Other,36.9,Low Calorie,Yoga
+40,87.9,199,Female,22.2,Balanced,Cardio
+46,97.5,150,Male,43.3,Low Calorie,Yoga
+35,74.4,184,Female,22.0,Balanced,Cardio
+18,74.5,150,Male,33.1,Low Calorie,Strength Training
+23,96.2,200,Other,24.1,Balanced,Strength Training
+33,87.5,185,Female,25.6,Low Carb,Cardio
+45,85.5,190,Female,23.7,Balanced,Yoga
+59,68.6,171,Other,23.5,Balanced,Yoga
+34,89.2,164,Female,33.2,Low Calorie,Yoga
+32,61.7,171,Male,21.1,Balanced,Cardio
+36,89.0,151,Other,39.0,Low Calorie,Yoga
+33,56.7,193,Other,15.2,High Protein,Yoga
+24,87.7,191,Male,24.0,Balanced,Strength Training
+58,67.1,167,Other,24.1,Balanced,Low Impact Exercise
+27,98.5,198,Other,25.1,Low Carb,Strength Training
+19,75.0,165,Other,27.5,Low Carb,Cardio
+22,98.3,191,Female,26.9,Low Carb,Strength Training
+60,58.2,182,Male,17.6,High Protein,Low Impact Exercise
+62,60.9,193,Female,16.3,High Protein,Yoga
+59,72.5,173,Other,24.2,Balanced,Low Impact Exercise
+21,73.9,169,Female,25.9,Low Carb,Cardio
+24,56.3,173,Male,18.8,Balanced,Cardio
+53,80.2,155,Male,33.4,Low Calorie,Low Impact Exercise
+38,94.4,159,Male,37.3,Low Calorie,Cardio
+53,60.3,183,Other,18.0,High Protein,Low Impact Exercise
+62,75.3,180,Male,23.2,Balanced,Yoga
+61,84.4,184,Other,24.9,Low Calorie,Yoga
+26,73.7,154,Other,31.1,Low Calorie,Cardio
+37,58.3,194,Male,15.5,High Protein,Yoga
+43,78.5,187,Female,22.4,Balanced,Cardio
+45,68.7,199,Other,17.3,High Protein,Yoga
